@@ -8,6 +8,10 @@
 !['DFD Level 2'](https://e.top4top.io/p_2600qu0fn1.jpeg)
 # DFD Level 2 (Mengelola Pustaka) :
 !['DFD Level 2'](https://e.top4top.io/p_260019yzm1.png)
+# DFD Level 2 (Mengelola Anggota) :
+!['DFD Level 2'](https://c.top4top.io/p_2600h1ptn1.png)
+# DFD Level 2 (Mengelola Peminjaman) :
+!['DFD Level 2'](https://i.top4top.io/p_2600gone91.png)
 # Kamus Data :
 !['DFD kmusdata'](https://e.top4top.io/p_2600ax1kx1.jpeg)
 # Adios 
