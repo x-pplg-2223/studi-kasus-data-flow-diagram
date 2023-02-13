@@ -2,5 +2,5 @@
 # Nama :Achmad Adji Dharma Saputra 
 # Kelas:X PPLG 1
 
-## [DFD Kamus](DFD Kamus.md)
-## [DFD Level](DFD Level 0.md)
+## [DFD-Kamus](DFD Kamus.md)
+## [DFD-Level-0](DFD Level 0.md)
