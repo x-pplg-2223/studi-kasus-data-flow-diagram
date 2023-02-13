@@ -1,8 +1,10 @@
 # studi-kasus-data-flow-diagram
 # dfd level 0
-DFd level 0 milik Rifa Mazharul
+DFd level 0 Rifa 
 ![level0](img/Ripa.jpg)
-DFd level1 milik Rifa
+# dfd level 1
+DFd level1 Rifa
 ![level1](img/Rip.jpg)
-DFd kamusdata milik Rifa
+# kamusdata
+DFd kamusdata Rifa
 ![kamusdata](img/Rifa.jpeg) 
