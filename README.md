@@ -1,4 +1,6 @@
 # studi-kasus-data-flow-diagram
-# Achmad Adji Dharma Saputra X PPLG 1
-# DFD Level 0 :
-!['DFD Level 0'](https://a.top4top.io/p_2600vaiu61.jpeg)
+# Nama :Achmad Adji Dharma Saputra 
+# Kelas:X PPLG 1
+
+## [DFD Kamus](DFD Kamus.md)
+## [DFD Level](DFD Level 0.md)
