@@ -1,3 +1,5 @@
 # studi-kasus-data-flow-diagram
-DFd level0 milik nadia
-![level0](img/grtyj.jpg)
+# nadia
+ 
+# DFD-level-0
+[![Screenshot-4.png](https://i.postimg.cc/tJ3N8JH1/Screenshot-4.png)](https://postimg.cc/y3NRZVxB)
