@@ -12,3 +12,4 @@
 !['DFD kmusdata'](https://e.top4top.io/p_2600ax1kx1.jpeg)
 # Adios 
 !['DFD kmusdata'](https://media.tenor.com/85qsz-9jRVQAAAAC/cropped-sad.gif)
+<marquee class="sampleMarquee" direction="right" scrollamount="7" behavior="scroll">I am John</marquee>
