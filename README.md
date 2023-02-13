@@ -1,6 +1,7 @@
 # studi-kasus-data-flow-diagram
 
 # Nazam-Ahmad-Fahreyza
+# Kelompok-2
 
 # DFD-Level-0 :
 [![Diagram-lv0-new.png](https://i.postimg.cc/j2bTgWsw/Diagram-lv0-new.png)](https://postimg.cc/KkJC483x)
