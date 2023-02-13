@@ -1,6 +1,6 @@
 # studi-kasus-data-flow-diagram
 # DFD level 0
-Ini contoh buatan Saya.
+Ini contoh level 0 buatan Saya.
 
 <br>
 
