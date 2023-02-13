@@ -4,4 +4,4 @@ DFd level0 punya aretha
 DFd level1 punya are
 ![level1](img/dfd%201.jpeg)
  KAmus data punya are
-![kamus](img/kamus.jpeg)
+![KAmus data](img/kamus.jpeg)
