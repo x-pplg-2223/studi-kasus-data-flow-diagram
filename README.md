@@ -23,7 +23,7 @@
 
 #### Ini contoh ( Mengelola Pustaka 1 ) :
 
-!['DFD.Diagram']()
+!['DFD.Diagram'](https://l.top4top.io/p_2601g1wox1.png)
 
 #### Ini contoh ( Mengelola Pustaka 2 ) :
 
