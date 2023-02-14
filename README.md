@@ -12,7 +12,7 @@
 [![dfd-level-2.jpg](https://i.postimg.cc/cJ51B5fb/dfd-level-2.jpg)](https://postimg.cc/Ff3Q9pWy)
 
 *DFD LEVEL 2 melihat petugas*
-[![leveldua.jpg](https://i.postimg.cc/jdBTDbqC/leveldua.jpg)](https://postimg.cc/PPb970wk)
+[![leveldua.jpg](https://i.postimg.cc/jdBTDbqC/leveldua.jpg)](https://postimg.cc/PPb970wk)]
 
 *DFD LEVEL 2 Mengelola  Peminjaman*
 [![dfd-l-2-peminjaman-drawio.png](https://i.postimg.cc/m2ZqTZv7/dfd-l-2-peminjaman-drawio.png)](https://postimg.cc/XXhx8W7v)
