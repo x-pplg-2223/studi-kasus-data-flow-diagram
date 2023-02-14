@@ -27,19 +27,19 @@
 
 #### Ini contoh ( Mengelola Pustaka 2 ) :
 
-!['DFD.Diagram']()
+!['DFD.Diagram'](https://l.top4top.io/p_2601esh4o1.png)
 
 #### Ini contoh ( Mengelola Anggota ) :
 
-!['DFD.Diagram']()
+!['DFD.Diagram'](https://k.top4top.io/p_2601w1cvk1.png)
 
 #### Ini contoh ( Mengelola Peminjaman ) :
 
-!['DFD.Diagram']()
+!['DFD.Diagram'](https://k.top4top.io/p_26016zyvp1.png)
 
 #### Ini contoh ( Mengelola Petugas ) :
 
-!['DFD.Diagram']()
+!['DFD.Diagram'](https://d.top4top.io/p_260115jfz1.png)
  
 ## Kamus data
 
