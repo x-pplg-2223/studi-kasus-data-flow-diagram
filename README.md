@@ -3,18 +3,16 @@
 # DFD Level 0 :
 !['DFD Level 0'](https://a.top4top.io/p_2600vaiu61.jpeg)
 # DFD Level 1 :
--
+!['DFD Level 0'](https://camo.githubusercontent.com/d5b4d50bced8c63392fd24615c73ca34e4e7fd0ad20bd62d9ada792bcc4f9f13/68747470733a2f2f6c2e746f7034746f702e696f2f705f32363031756e36306c302e6a706567)
 # DFD Level 2 :
 !['DFD Level 2'](https://e.top4top.io/p_2600qu0fn1.jpeg)
 * DFD Level 2 (Mengelola Pustaka) :
-!['DFD Level 2'](https://e.top4top.io/p_260019yzm1.png)
+[![Whats-App-Image-2023-02-13-at-21-20-11.jpg](https://i.postimg.cc/L58Kvb0s/Whats-App-Image-2023-02-13-at-21-20-11.jpg)](https://postimg.cc/G8V5mqR0)
 * DFD Level 2 (Mengelola Anggota) :
-!['DFD Level 2'](https://c.top4top.io/p_2600h1ptn1.png)
+[![Whats-App-Image-2023-02-13-at-21-01-29.jpg](https://i.postimg.cc/bN0VdT6C/Whats-App-Image-2023-02-13-at-21-01-29.jpg)](https://postimg.cc/0bQ0Bp1D)
 * DFD Level 2 (Mengelola Peminjaman) :
 !['DFD Level 2'](https://i.top4top.io/p_2600gone91.png)
 * DFD Level 2 (Mengelola Petugas) :
-!['DFD Level 2'](https://j.top4top.io/p_2600g7mgc0.jpeg)
+[![Whats-App-Image-2023-02-14-at-08-50-15-1.jpg](https://i.postimg.cc/xj4M5SBW/Whats-App-Image-2023-02-14-at-08-50-15-1.jpg)](https://postimg.cc/rz5Dy7VJ)
 # Kamus Data :
-!['DFD kmusdata'](https://e.top4top.io/p_2600ax1kx1.jpeg)
-# Adios 
-!['DFD kmusdata'](https://media.tenor.com/85qsz-9jRVQAAAAC/cropped-sad.gif)
+[![Whats-App-Image-2023-02-13-at-15-53-20.png](https://i.postimg.cc/jSN5zVrQ/Whats-App-Image-2023-02-13-at-15-53-20.png)](https://postimg.cc/JsrML20G)
