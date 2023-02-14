@@ -19,5 +19,27 @@ Ini contoh level 1 :
 <br>
 
 # DFD level 2
-Ini contoh level 2 :
+* Ada beberapa contoh lebih banyak di level 2.
+Ini contoh ( Mengelola Pustaka 1 ) :
 
+!['DFD.Diagram']()
+
+Ini contoh ( Mengelola Pustaka 2 ) :
+
+!['DFD.Diagram']()
+
+Ini contoh ( Mengelola Anggota ) :
+
+!['DFD.Diagram']()
+
+Ini contoh ( Mengelola Peminjaman ) :
+
+!['DFD.Diagram']()
+
+Ini contoh ( Mengelola Petugas ) :
+
+!['DFD.Diagram']()
+ 
+# Kamus data
+
+!['DFD.Diagram']()
