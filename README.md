@@ -1,6 +1,6 @@
 # studi-kasus-data-flow-diagram
-# dyandra
-# kelompok-12
+## Dyandra
+### kelompok-12
 
 # DFD level 0
 ![level0](img/studi-kasus-DFD0.jpg)
@@ -12,10 +12,8 @@
 ![level2(2)](img/dfd%20level%202%20(2).jpg)
 # DFD level 2 (3)
 ![level2(3)](img/dfd%20level%202%20(3).jpg)
-
-
-
-
+# DFD level 2 (4)
+![level2(4)](img/dfd%20level%202%20(4).jpg)
 # DFD level 2 (5)
 ![level2(5)](img/dfd%20level%202%20(5).jpg)
 
