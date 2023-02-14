@@ -6,7 +6,7 @@
 [![level-0.png](https://i.postimg.cc/Qx470TH8/level-0.png)](https://postimg.cc/9r9zfzdK)
 
 # level-1
-[![level-1.png](https://i.postimg.cc/x190Jx0q/level-1.png)](https://postimg.cc/SJt0HGYp)
+[![IMG-20230214-WA0048.png](https://i.postimg.cc/43QVQ9TB/IMG-20230214-WA0048.png)](https://postimg.cc/t17sX7Jx)
 # level-2
 [![level-2-1.png](https://i.postimg.cc/bNH0LkT4/level-2-1.png)](https://postimg.cc/vcT6Z1Cv)
 # level-2-pustaka
