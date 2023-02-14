@@ -6,5 +6,9 @@
 ![level0](img/studi-kasus-DFD0.jpg)
 # DFD level 1
 ![level1](img/studi-kasus-DFD1.jpg)
+# DFD level 2 (1)
+![level2(1)](img/dfd%20level%202%20(1).jpg)
+
+
 # DFD Kamus Data
 ![kamusdata](img/kamus%20dataa.drawio.png)
