@@ -22,5 +22,5 @@
 # Kamus Data :
 !['DFD kmusdata'](https://e.top4top.io/p_2600ax1kx1.jpeg)
 
-** Adios **
+**Adios**
 !['DFD kmusdata'](https://media.tenor.com/85qsz-9jRVQAAAAC/cropped-sad.gif)
