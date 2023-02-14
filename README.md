@@ -1,6 +1,13 @@
 # studi-kasus-data-flow-diagram
 # Nama : FADHIL HAZZA ISWADINATA
 
+# DFD LEVEL 0
+![level0](img/dfdLevel0.jpeg)
+
+# DFD LEVEL 1
+![level0](img/dfdLevel1.jpg)
+
+
 # DFD LEVEL 2(Mengelola Pustaka1)
 ![level0](img/dfdLevel2(1).jpeg)
 
