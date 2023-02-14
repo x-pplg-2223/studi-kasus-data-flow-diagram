@@ -6,4 +6,4 @@
 [![dfd-level-0.png](https://i.postimg.cc/QtVMPbHB/dfd-level-0.png)](https://postimg.cc/xJDYNLGY)
 
  # DFD level 1
-![[dfd-level-1.png]](img/studi-kasus-DFD1.jpg)
+![dfd-level-1.png](img/studi-kasus-DFD1.jpg)
