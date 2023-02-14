@@ -18,4 +18,4 @@
 # DFD-level-2
 [![Whats-App-Image-2023-02-14-at-14-22-47-1.jpg](https://i.postimg.cc/dV0Vvpf9/Whats-App-Image-2023-02-14-at-14-22-47-1.jpg)](https://postimg.cc/MvhSmPqc)
 # DFD-kamus-data
-[![Whats-App-Image-2023-02-14-at-14-22-46-1.jpg](https://i.postimg.cc/hGjcWmfZ/Whats-App-Image-2023-02-14-at-14-22-46-1.jpg)](https://postimg.cc/Bjdd2X52)
+[![Whats-App-Image-2023-02-14-at-14-22-46-1.jpg](https://i.postimg.cc/hGjcWmfZ/Whats-App-Image-2023-02-14-at-14-22-46-1.jpg)](https://postimg.cc/Bjdd2X52)w
