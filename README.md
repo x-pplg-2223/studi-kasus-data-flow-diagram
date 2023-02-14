@@ -12,9 +12,8 @@
 !['DFD Level 2'](https://c.top4top.io/p_2600h1ptn1.png)
 * DFD Level 2 (Mengelola Peminjaman) :
 !['DFD Level 2'](https://i.top4top.io/p_2600gone91.png)
-* DFD Level 2 (Mengelola Petugas)
-!['DFD Level 2']
-(https://j.top4top.io/p_2600g7mgc0.jpeg)
+* DFD Level 2 (Mengelola Petugas) :
+!['DFD Level 2'](https://j.top4top.io/p_2600g7mgc0.jpeg)
 # Kamus Data :
 !['DFD kmusdata'](https://e.top4top.io/p_2600ax1kx1.jpeg)
 # Adios 
