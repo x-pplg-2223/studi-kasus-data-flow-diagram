@@ -4,11 +4,11 @@
 
 # level-0
 [![level-0.png](https://i.postimg.cc/Qx470TH8/level-0.png)](https://postimg.cc/9r9zfzdK)
-halo gaes
+
 # level-1
 [![level-1.png](https://i.postimg.cc/x190Jx0q/level-1.png)](https://postimg.cc/SJt0HGYp)
 # level-2
-[![level-2.png](https://i.postimg.cc/rwpwZn73/level-2.png)](https://postimg.cc/QHRDHb8J)
+[![level-2-1.png](https://i.postimg.cc/bNH0LkT4/level-2-1.png)](https://postimg.cc/vcT6Z1Cv)
 # level-2-pustaka
 [![pustaka-drawio.png](https://i.postimg.cc/MpJnsmz8/pustaka-drawio.png)](https://postimg.cc/D85f0sWC)
 # level-2-anggota
