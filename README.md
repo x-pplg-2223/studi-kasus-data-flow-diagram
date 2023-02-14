@@ -14,6 +14,6 @@
 # DFD-Level-2-Mengelola-Petugas
 [![Whats-App-Image-2023-02-14-at-10-07-28.jpg](https://i.postimg.cc/tRc8pQG9/Whats-App-Image-2023-02-14-at-10-07-28.jpg)](https://postimg.cc/6TdMfPQP)
 # DFD-Level-2-Mengelola-Peminjaman
-[![Screenshot-6.png](https://i.postimg.cc/wvpS0JkC/Screenshot-6.png)](https://postimg.cc/qt1b7NSw)
+[![Whats-App-Image-2023-02-14-at-10-11-43.jpg](https://i.postimg.cc/PfFnJvYs/Whats-App-Image-2023-02-14-at-10-11-43.jpg)](https://postimg.cc/3WpcbRtn)
 # DFD-Kamus-Data
 [![Whats-App-Image-2023-02-14-at-10-02-42.jpg](https://i.postimg.cc/Gph19F7R/Whats-App-Image-2023-02-14-at-10-02-42.jpg)](https://postimg.cc/0z34Bw1X)
