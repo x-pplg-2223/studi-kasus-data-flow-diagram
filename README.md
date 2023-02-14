@@ -5,8 +5,9 @@
   <img width="45%" src="https://i0.wp.com/www.icegif.com/wp-content/uploads/icegif-87.gif">
 </p>
 
+>*NAMA : Syahrul Ghofar Pratama<br>KELAS : X PPLG 1<br>
+>KELOMPOK : 3*
 ##
-
 <div>
   <i>
     <h1 align="center">
