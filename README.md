@@ -22,7 +22,7 @@
 ### Ada beberapa contoh lebih banyak di level 2.
 #### Ini contoh ( Mengelola Pustaka 1 ) :
 
-!['DFD.Diagram'](https://j.top4top.io/p_2601o9ovu1.png)
+!['DFD.Diagram']()
 
 ### Ini contoh ( Mengelola Pustaka 2 ) :
 
