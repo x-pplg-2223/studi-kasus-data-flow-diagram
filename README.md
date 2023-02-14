@@ -9,8 +9,8 @@
 [![Untitled-2.jpg](https://i.postimg.cc/Gthmt9Hy/Untitled-2.jpg)](https://postimg.cc/sQqr0jPj)
 # DFD-Level-2-Mengelola-Pustaka
 [![Whats-App-Image-2023-02-13-at-21-25-22.jpg](https://i.postimg.cc/kMTsD8LT/Whats-App-Image-2023-02-13-at-21-25-22.jpg)](https://postimg.cc/9zqZn4m9)
-# DFD-Level-2-Mengelola-Peminjaman
-[![Whats-App-Image-2023-02-14-at-10-11-43.jpg](https://i.postimg.cc/PfFnJvYs/Whats-App-Image-2023-02-14-at-10-11-43.jpg)](https://postimg.cc/3WpcbRtn)
+# DFD-Level-2-Mengelola-Anggota
+[![Whats-App-Image-2023-02-13-at-22-35-27-2.jpg](https://i.postimg.cc/wByYhqp4/Whats-App-Image-2023-02-13-at-22-35-27-2.jpg)](https://postimg.cc/2qDtYf3n)
 # DFD-Level-2-Mengelola-Petugas
 [![Whats-App-Image-2023-02-14-at-10-07-28.jpg](https://i.postimg.cc/tRc8pQG9/Whats-App-Image-2023-02-14-at-10-07-28.jpg)](https://postimg.cc/6TdMfPQP)
 # DFD-Level-2-Mengelola-Peminjaman
