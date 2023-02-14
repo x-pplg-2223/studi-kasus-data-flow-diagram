@@ -1,6 +1,6 @@
-## studi-kasus-data-flow-diagram
+# studi-kasus-data-flow-diagram
 
-# Diagram milik Arif Achmad Fauzy coy🗿
+## Diagram milik Arif Achmad Fauzy coy🗿
 
 <br>
 
