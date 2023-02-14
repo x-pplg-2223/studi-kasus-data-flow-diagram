@@ -42,4 +42,4 @@
  
 ## Kamus data
 
-!['DFD.Diagram']()
+!['DFD.Diagram'](https://f.top4top.io/p_2601b1vtl1.png)
