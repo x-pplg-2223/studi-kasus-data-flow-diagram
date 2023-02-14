@@ -16,10 +16,10 @@ DFd level2no3 Rifa
 ![level2no3](img/ke-3.jpeg)
 # dfd level 2 no 4
 DFd level2no4 Rifa
-![level2no4](img/ke-4.jpeg)
+![level2no4](img/baru.jpeg)
 # dfd level 2 no 5
 DFd level2no5 Rifa
-![level2no5](img/ke-5.jpeg)
+![level2no5](img/petugas.jpeg)
 # kamusdata
 DFd kamusdata Rifa
-![kamusdata](img/Rifa.jpeg) 
+![kamusdata](img/kamusdataasli.jpeg) 
