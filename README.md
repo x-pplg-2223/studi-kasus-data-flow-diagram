@@ -20,23 +20,24 @@
 
 ## DFD level 2
 ### Ada beberapa contoh lebih banyak di level 2.
+
 #### Ini contoh ( Mengelola Pustaka 1 ) :
 
 !['DFD.Diagram']()
 
-### Ini contoh ( Mengelola Pustaka 2 ) :
+#### Ini contoh ( Mengelola Pustaka 2 ) :
 
 !['DFD.Diagram']()
 
-### Ini contoh ( Mengelola Anggota ) :
+#### Ini contoh ( Mengelola Anggota ) :
 
 !['DFD.Diagram']()
 
-### Ini contoh ( Mengelola Peminjaman ) :
+#### Ini contoh ( Mengelola Peminjaman ) :
 
 !['DFD.Diagram']()
 
-### Ini contoh ( Mengelola Petugas ) :
+#### Ini contoh ( Mengelola Petugas ) :
 
 !['DFD.Diagram']()
  
