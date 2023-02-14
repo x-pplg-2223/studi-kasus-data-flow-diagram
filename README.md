@@ -12,7 +12,7 @@
 [![level-2-mengelola-pustaka.jpg](https://i.postimg.cc/85QT6B0n/level-2-mengelola-pustaka.jpg)](https://postimg.cc/hJsFFxg9)
 
 # level 2 mengelola anggota
-[![DFD-Level-2-2.jpg](https://i.postimg.cc/fR1vYJjr/DFD-Level-2-2.jpg)](https://postimg.cc/sM9SrfLY)
+[![level-2-mengelola-anggota.jpg](https://i.postimg.cc/VLLmnNK1/level-2-mengelola-anggota.jpg)](https://postimg.cc/YjV5wtcy)
 
 # level 2 mengelola peminjaman
 [![level-2-mengelola-peminjaman.jpg](https://i.postimg.cc/yx8tgDsb/level-2-mengelola-peminjaman.jpg)](https://postimg.cc/JDSPS4yN)
