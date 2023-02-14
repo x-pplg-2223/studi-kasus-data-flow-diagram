@@ -9,7 +9,7 @@
 # DFD Level 2 (Mengelola Pustaka) :
 [![Whats-App-Image-2023-02-13-at-21-01-29.jpg](https://i.postimg.cc/bN0VdT6C/Whats-App-Image-2023-02-13-at-21-01-29.jpg)](https://postimg.cc/0bQ0Bp1D)
 # DFD Level 2 (Mengelola Anggota) :
-[![mengelola-anggota.jpg](https://i.postimg.cc/05WsW9Gd/mengelola-anggota.jpg)](https://postimg.cc/MXQNX2Fv)
+[68747470733a2f2f632e746f7034746f702e696f2f705f32363030683170746e312e706e67.png](https://i.postimg.cc/7Pz2kPXD/68747470733a2f2f632e746f7034746f702e696f2f705f32363030683170746e312e706e67.png)](https://postimg.cc/NLgM8cWP)
 # DFD Level 2 (Mengelola Peminjaman) :
 !['DFD Level 2'](https://i.top4top.io/p_2600gone91.png)
 # DFD Level 2 (Mengelola Petugas) :
