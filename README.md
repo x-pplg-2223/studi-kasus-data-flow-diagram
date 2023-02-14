@@ -1,4 +1,9 @@
 # studi-kasus-data-flow-diagram
 
-### [CLICK SAYA!](isi-DFD.md)
+<p align="center" width="100%"> 
+
+  <img width="45%" src="https://i0.wp.com/www.icegif.com/wp-content/uploads/icegif-87.gif">
+</p>
+
+## [CLICK SAYA!](isi-DFD.md)
 
