@@ -3,9 +3,11 @@
 - Nama  :Achmad Adji Dharma Saputra 
 - Kelas :X PPLG 1
 
+<i>Klik dibawah ini untuk melihat Diagram</i>
 <img src='hello.png' align="right" width="230">
 
 # Klik Disini!
+    👇👇
 ## [DFD Level 0](DFD%20Level%200.md)
 ## [DFD Level 1](DFD%20Level%201.md)
 ## [DFD Level 2](DFD%20Level%202.md)
