@@ -14,4 +14,4 @@
 # dfd level 2 no5
 ![level2](img/level2no5.jpg)
 # kamus data
-![kamusdata](img/Kamusdata.jpg)
+![kamusdata](img/KamusData.jpg)
