@@ -11,10 +11,10 @@ Diagram Nazwa
 # level 2 :
 [![level2.jpg](https://i.postimg.cc/k4hxj354/level2.jpg)](https://postimg.cc/sQ7QXL7d)
 
-# mengelola-anggota-level 2 :
+# anggota
 [![mengelola-anggota-level2.jpg](https://i.postimg.cc/15FdbPNb/mengelola-anggota-level2.jpg)](https://postimg.cc/8j1wr24b)
 
-# petugas :
+# mengelola-petugas-level 2 :
 [![mengelola-petugas-level2.jpg](https://i.postimg.cc/nVjSQZTM/mengelola-petugas-level2.jpg)](https://postimg.cc/Jt859ffW)
 
 # pinjaman :
