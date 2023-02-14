@@ -11,7 +11,7 @@ Diagram Nazwa
 # level 2 :
 [![level2.jpg](https://i.postimg.cc/k4hxj354/level2.jpg)](https://postimg.cc/sQ7QXL7d)
 
-# anggota :
+# mengelola-anggota-level 2 :
 [![mengelola-anggota-level2.jpg](https://i.postimg.cc/15FdbPNb/mengelola-anggota-level2.jpg)](https://postimg.cc/8j1wr24b)
 
 # petugas :
