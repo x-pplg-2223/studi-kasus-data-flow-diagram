@@ -1,8 +1,8 @@
 # studi-kasus-data-flow-diagram
 
 
-  Kamus data   
- : [![KAMUS-DATA.jpg](https://i.postimg.cc/vZZrbdc3/KAMUS-DATA.jpg)](https://postimg.cc/LnGY3wk1)
+  Kamus data :
+   [![Kamus data](https://i.postimg.cc/vZZrbdc3/KAMUS-DATA.jpg)](https://postimg.cc/LnGY3wk1)
 
  # 3DFD level 0
  : [![level0.jpg](https://i.postimg.cc/SQc7GrB7/level0.jpg)](https://postimg.cc/grkZzvkn)
