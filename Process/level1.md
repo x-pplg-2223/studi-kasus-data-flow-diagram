@@ -1,10 +1,12 @@
-## Level 0
-- Pada tahap awal di Level 0 ini kita memulai dengan pelanggan memasukkan informasi pribadi seperti nama, alamat, nomor ponsel, alamat email, dll.
-Di Pencarian Pustaka, masukkan daftar pustaka,
-Sistem kemudian menyimpan data dari pelanggan, sehingga memudahkan pelanggan untuk  melakukan peminjaman.
-Petugas Perpustakaan kemudian mengakses semua data dalam sistem informasi.
-Informasi yang dihasilkan oleh sistem Informasi yang dikirim oleh pengguna ke Petugas Perpustakaan
-Informasi yang dikirimkan anggota ke Petugas Perpustakaan adalah tentang tanggal peminjaman.
-Sedangkan informasi yang dihasilkan oleh Petugas Perpustakaan untuk anggota adalah data buku dan informasi tanggal peminjaman.
-Informasi yang dikirimkan ke sistem kepada staf adalah data buku, data keanggotaan, data transaksi pinjaman, retur, SMS, dan informasi laporan tercetak.
-
+## Level 1
+- Penjelasannya Berbagai Komponen Secara Singkat :
+Petugas Perpustakaan Daftar Pustaka
+Sistem informasi memeriksa integritas data
+Setelah selesai, data akan disimpan di database
+Kemudian produk akan ditampilkan kepada pelanggan/customer
+DFD di atas menggambarkan proses yang dilakukan oleh sistem untuk petugas dan anggota.
+Proses tersebut meliputi pengolahan data buku, melakukan survei buku, mengelola data keanggotaan, melakukan survei keanggotaan, memperoleh pinjaman dan pengembalian, dan data SMS keluar dan masuk. Terlihat bahwa Operator Pustaka dapat
+melalukan pengolahan data seperti manajemen modul,
+buku, kategori, staff, dan status member. Sedangkan Anggota Pustaka
+hanya memiliki akses untuk meminjam buku dan
+pengembalian.
