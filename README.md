@@ -3,8 +3,8 @@
 
 # DFD-Level-0
 [![Ripa-2.jpg](https://i.postimg.cc/GpS62ZTP/Ripa-2.jpg)](https://postimg.cc/R3KgppRq)
-	*1. Mengelola sistem informasi manajemen perpustakaan mengalirkan data anggota/pengunjung perpustakaan (ketika ada yg meminjam buku)
-	2. lalu anggota melakukan pencarian pustaka kepada mengelola sistem 
+	*1. Mengelola sistem informasi manajemen perpustakaan mengalirkan data anggota/pengunjung perpustakaan (ketika ada yg meminjam buku)*
+	*2. lalu anggota melakukan pencarian pustaka kepada mengelola sistem*
 	3. terus petugas pustaka itu melakukan login ke mengelola sisitem pustaka
 	4.  setalah itu anggota  mendapatkan pesan login/logut dari pustaka
 	5. Petugas pustaka melakukan pencarian pustaka kepada mengelola sistem
