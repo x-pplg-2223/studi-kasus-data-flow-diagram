@@ -2,14 +2,8 @@
 # Misael.CH X PPLG 1
 # DFD Level 0 :
 !['DFD Level 0'](https://a.top4top.io/p_2600vaiu61.jpeg)
-## Klik Disini Untuk Melihat Proses! 
-<div>
-    <i>
-        <h1 align="left">
-            <a href="https://github.com/MisaelChristoph007/studi-kasus-data-flow-diagram/blob/main/Process/level0.md">Klik</a>
-        </h1>
-    </i>
-  </div>
+## Klik Disini Untuk Melihat Proses! <a href="https://github.com/MisaelChristoph007/studi-kasus-data-flow-diagram/blob/main/Process/level0.md">Klik</a>
+
   
 # DFD Level 1 :
 !['DFD Level 2'](https://l.top4top.io/p_2601un60l0.jpeg)
