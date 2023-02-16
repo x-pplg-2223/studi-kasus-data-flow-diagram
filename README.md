@@ -5,8 +5,8 @@
 ## Klik Disini Untuk Melihat Proses! 
 <div>
     <i>
-        <h1 align="center">
-            <a href="level0.md">Klik</a>
+        <h1 align="left">
+            <a href="https://github.com/MisaelChristoph007/studi-kasus-data-flow-diagram/blob/main/Process/level0.md">Klik</a>
         </h1>
     </i>
   </div>
