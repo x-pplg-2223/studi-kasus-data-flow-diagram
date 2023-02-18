@@ -3,11 +3,17 @@
 # DFD Level 0
  ![level0.jpg](img/level0.jpeg)
 
- [Anggota/Pengunjung perpustakaan] <br> pengunjung yang ingin meminjam ke perpustakaan
+ <B>[Anggota/Pengunjung perpustakaan]</b> 
  <br>
- <b>[Petugas Perpustakaan]</b> <br> petugas yang memenuhi permintaan dari pengunjung yang di dapat dari sistem pengelola
+    pengunjung yang ingin meminjam ke perpustakaan
  <br>
- (mengelola sistem informasi manajemen perpustakaan) <br> sistem yang mengelola permintaan pengunjung dan memenuhi permintaan pengunjung yang di dapatkan dari petugas 
+ <b>[Petugas Perpustakaan]</b>
+ <br>
+    petugas yang memenuhi permintaan dari pengunjung yang di dapat dari sistem pengelola
+ <br>
+ <b>(mengelola sistem informasi manajemen perpustakaan)</b> 
+ <br>
+    sistem yang mengelola permintaan pengunjung dan memenuhi permintaan pengunjung yang di dapatkan dari petugas 
 
 
 # DFD Level 1
