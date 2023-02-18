@@ -8,7 +8,7 @@ ___
 ___
 ### DFD LVL 2.1
 
-!['DFD LVL 2.1'](folders/DFD-level_2_1.svg)
+!['DFD LVL 2.1'](folders/DFD-level_2_1.)
 
 ___
 ### DFD LVL 2.2
