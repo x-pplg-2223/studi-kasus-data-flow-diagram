@@ -25,30 +25,39 @@
 
 # DFD-level-2
 [![dfd-level2.png](https://i.postimg.cc/1XcCqgFP/dfd-level2.png)](https://postimg.cc/m1kyxgV6)
+
 # DFD-level-2-mengelola pustaka
 [![dfd-level2-mengelola-pustaka.png](https://i.postimg.cc/TYK5h8vN/dfd-level2-mengelola-pustaka.png)](https://postimg.cc/3dHxbcR2)
+
 # DFD-level-2-mengelola anggota
 [![dfd-level2-mengelola-anggota.png](https://i.postimg.cc/SRCs74Qm/dfd-level2-mengelola-anggota.png)](https://postimg.cc/7JPwwpTR)
+1. status login memasukkan data ke proses anggota,selanjutnya mengalirkan data anggota tanpa telepon ke petugas
+2. anggota mengalirkan data ke proses memasukkan anggota,selanjutnya mengalirkan data telepon anggota kepetugas 
+3. status login mengalirkan data ke proses mengubah anggota,selanjutnya mengalirkan data anggota tanpa telepon kepetugas
+4. anggota mengalirkan data ke proses mengubah anggota,selanjutnya mengalirkan data telepon anggota ke petugas
+5. status login mengalirkan data ke proses menghapus anggota,selanjutnya mengalirkan data anggota  tanpa telepon ke prtugas 
+6. anggota mengalirkan data ke proses menghapus anggota,selanjutnya mengalirkan data telepon anggota ke petugas
+7. status login mengalirkan  data ke proses melihat anggota,selanjutnya petugas mengalirkan data anggota tanpa telepon ke proses melihat anggota
+8. proses melihat anggota mengalirkan data anggota ke petugas,selanjutnya data penyimpanan petugas mengalirkan data telepon anggota ke proses anggota
+9. status login mengalirkan data ke proses mencari anggota,selanjutnya petugas mengalirkan data anggota tanpa telepon ke proses mencari anggota
+10. pencarian anggota mengalirkan data ke proses mencari anggota
+11. proses mencari anggota mengalirkan data anggota ke petugas,selanjutnya data penyimpan petugas mengalirkan data telepon anggota ke proses mencari anggota
 # DFD-level-2-mengelola peminjaman
-[![dfd-level2-peminjaman.png](https://i.postimg.cc/Z57TNnPr/dfd-level2-peminjaman.png)](https://postimg.cc/gxhFFYTJ)
+[![dfd-Level-2-peminjaman.png](https://i.postimg.cc/59Lj5P05/dfd-Level-2-peminjaman.png)](https://postimg.cc/Th2RfJnh)
 # DFD-level-2-mengelola petugas
 [![dfd-level2-meneglola-petugas.png](https://i.postimg.cc/nLb30Y1Z/dfd-level2-meneglola-petugas.png)](https://postimg.cc/68cVQZS1)
 1. Status  login memasukan data ke proses memasukan petugas 
 2. data petugas mengalirkan data petugas ke proses memasukan petugas
 3. proses memasukan petugas mengalirkan data petugas kepada petugas
-
 1. status login memasukan data ke proses mengubah petugas
 2. data petugas mengalirkan data petugas ke proses mengubah petugas
 3. proses mengubah petugas mengalirkan data petugas ke petugas
-
 1. status login memasukan data ke proses menghapus petugas
 2. data petugas mengalirkan data petugas ke peroses menghapus petugas
 3. proses menghapus data petugas mengalirkan data ke petugas
-
 1. status login memasukan data ke proses ke melihat petugas
 2. proses data mengalirkan data petugas ke petugas
 3. petugas mengalirkan data petugas ke mnelihat petugas
-
 1. status login memasukan data ke proses mencari petugas
 2. petugas mengalirkan data pencarian petugas ke mencari petugas
 3. proses mengalirkan data petugas ke  penyimpanan data petugas
