@@ -15,6 +15,8 @@
  <br>
     petugas yang memenuhi permintaan dari pengunjung yang di dapat dari sistem pengelola
  <br>
+ aliran data >>
+ <br>
   -pencarian pustaka- anggota/pengunjung melakukan pencarian pustaka di sistem informasi 
  <br>
   -login- petugas perpustakaan melakukan login pada sistem informasi
@@ -47,7 +49,7 @@
   <br>
   -pustaka- sistem memberikan pustaka pada anggota/pengunjung perpustakaan 
 
-  
+
 # DFD Level 1
  ![dfd-l-1.svg](img/dfd%20l-1.svg)
 
