@@ -6,7 +6,7 @@
 # dfd level 2 no1
 ![Kamusdata](img/Level2no1.png)
 # dfd level 2 no2
-![level2](img/level2n02.png)
+![level2](img/level2no2.png)
 # dfd level 2 no3
 ![level2](img/level2no3.png)
 # dfd level 2 no4
