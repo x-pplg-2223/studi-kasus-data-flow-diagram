@@ -3,7 +3,7 @@
 - Nama  :Achmad Adji Dharma Saputra 
 - Kelas :X PPLG 1
 
-<i>catatan :
+<i>catatan :]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
 Klik dibawah ini untuk melihat Diagram
 </i>
 <img src='hello.png' align="right" width="230">
