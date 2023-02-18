@@ -6,7 +6,7 @@ Diagram Nazwa
 [![level0.jpg](https://i.postimg.cc/PrbCJnkw/level0.jpg)](https://postimg.cc/D8ZvpD0v)
 
 # level 1 :
-[![level1.jpg](https://i.postimg.cc/jSNZL5Sh/level1.jpg)](https://postimg.cc/ZWbrQJ39)
+[![level1-2.jpg](https://i.postimg.cc/JhLDn2ML/level1-2.jpg)](https://postimg.cc/18v57M8C)
 
 # level 2 :
 [![level2.jpg](https://i.postimg.cc/k4hxj354/level2.jpg)](https://postimg.cc/sQ7QXL7d)
@@ -21,7 +21,7 @@ Diagram Nazwa
 [![mengelola-pinjaman-level2.jpg](https://i.postimg.cc/JhYKGdkb/mengelola-pinjaman-level2.jpg)](https://postimg.cc/Y4gQPR89)
 
 # pustaka :
-[![mengelola-pustaka-level2.jpg](https://i.postimg.cc/Yq8FrLgF/mengelola-pustaka-level2.jpg)](https://postimg.cc/dLk3n15Q)
+[![pustaka.jpg](https://i.postimg.cc/kgtKDSSx/pustaka.jpg)](https://postimg.cc/dhwLxL41)
 
 
 # kamus data :
