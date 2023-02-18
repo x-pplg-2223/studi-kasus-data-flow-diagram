@@ -4,14 +4,14 @@
 
 ## penjelasan :
 
-(Anggota/Pengunjung perpustakaan)
-Anggota/Pengunjung Perpustakaan adalah Seorang Anggota atau pengunjung yang ingin meminjam ke perpustakaan.
+(Anggota/Pengunjung perpustakaan)\
+<i>Anggota/Pengunjung Perpustakaan adalah Seorang Anggota atau pengunjung yang ingin meminjam ke perpustakaan.</i>
 
-(mengelola sistem informasi manajemen perpustakaan)
-Adalah  proses dari sebuah sistem yang mengelola peminjaman dan memenuhi permintaan pengunjung.
+(mengelola sistem informasi manajemen perpustakaan)\
+<i>Adalah  proses dari sebuah sistem yang mengelola peminjaman dan memenuhi permintaan pengunjung.</i>
 
-(Petugas Perpustakaan)
-Petugas Perpustakaan adalah seorang petugas yang memenuhi permintaan/pinjaman dari pengunjung yang sudah di proses dan sudah mendapat izin dari sistem yang mengelola informasi manajemen perpustakaan.
+(Petugas Perpustakaan)\
+<i>Petugas Perpustakaan adalah seorang petugas yang memenuhi permintaan/pinjaman dari pengunjung yang sudah di proses dan sudah mendapat izin dari sistem yang mengelola informasi manajemen perpustakaan.</i>
 
 ## Proses Diagram diatas :
 
