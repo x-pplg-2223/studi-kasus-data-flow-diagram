@@ -7,13 +7,13 @@
  <br>
     pengunjung yang ingin meminjam ke perpustakaan
  <br>
- <b>[Petugas Perpustakaan]</b>
- <br>
-    petugas yang memenuhi permintaan dari pengunjung yang di dapat dari sistem pengelola
- <br>
  <b>(mengelola sistem informasi manajemen perpustakaan)</b> 
  <br>
     sistem yang mengelola permintaan pengunjung dan memenuhi permintaan pengunjung yang di dapatkan dari petugas 
+ <br>
+ <b>[Petugas Perpustakaan]</b>
+ <br>
+    petugas yang memenuhi permintaan dari pengunjung yang di dapat dari sistem pengelola
 
 
 # DFD Level 1
