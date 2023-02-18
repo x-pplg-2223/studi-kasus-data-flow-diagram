@@ -15,7 +15,7 @@
  <br>
     petugas yang memenuhi permintaan dari pengunjung yang di dapat dari sistem pengelola
  <br>
- <align> aliran data >></align>
+  <center>aliran data >></center>
  <br>
   -pencarian pustaka- anggota/pengunjung melakukan pencarian pustaka di sistem informasi 
  <br>
