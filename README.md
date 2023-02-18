@@ -7,25 +7,31 @@ Jadi dari proses mengelola sistem informasi manajemen perpustakaan trus ada alir
 # dfd level 1
 ![level1](img/Level1.jpg)
 \
+## DFD Level 1
+\
 Lalu setelah DFD level 0 DFD level satu,merupakan hasil break down dari DFD level 0 yang sebelumnya dibuat,,adapun juga status login dia login sebagai petugas atau pengunjung perpustakaan , pengunjung perpustakaan pencarian pustaka lalu di proses dikirim ke petugas perpustakaan lagi di proses di pengelola pustaka ada beberapa proses di dalam mengelola pustaka ada pustaka tanpa pengarang jadi di proses lagi di kirim ke pengarang pustaka lalu di proses dan dikirim ke pengunjung perpustakaan lalu pengunjung ingin meminjam bukunya jadi diproses memalui mengelola pinjaman lalu proses mengelola anggota seperti meminta nomor telpon nya ke pada anggota jika mau meminjam bukunya setelah itu pencarian petugas proses mengelola petugas petugas login jika sudah logout
 \
 # dfd level 2 no1
 ![Kamusdata](img/Level2no1.png)
 \
-Selanjutnya DFD level 2
+## Selanjutnya DFD level 2
+\
 di dalam mengelola pustaka ada  pustaka tanpa pengarang yang akan di proses di mengelola pustaka ada beberapa proses di dalam mengelola pustaka seperti memasukan pustaka mengubah pustaka menghapus pustaka melihat pustaka
 \
 # dfd level 2 no2
 ![level2](img/level2n02.png)
 \
-Selanjutnya DFD level 2 - (mengelola pustaka) 
+## Selanjutnya DFD level 2 - (mengelola pustaka) 
+\
 Ada beberapa proses yaitu memasukan pustaka setelah itu mengubah nya setelah itu merefisi atau menghapus pustaka jika sudah selesai melihat di chek lagi pustaka nya
 \
 # dfd level 2 no3
 ![level2](img/level2no3.png)
 \
 ## Selanjutnya DFD level 2 -(mengelola anggota)
+\
 ada beberapa proses dalam mengelola anggota yaitu memasukan anggota memasukkan telpon anggota selanjutnya mengubah nya selanjutnya menghapus anggota melihat anggota atau mengecek kembali apakah ada yang harus diperbaiki jika memang sudah selesai selanjutnya mencari anggota
+\
 # dfd level 2 no4
 ![level2](img/level2no4.jpg)
 \
