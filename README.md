@@ -2,24 +2,24 @@
 # dfd level 0
 ![level0](img/Level0.jpg)
 *si pengunjung melakukan pencarian pustaka di sistem informasi
- manajemen perpus.
+ manajemen perpus.<br>
 *sistem memberitahukan si admin agar login ke sistem manajemen
- perpus.
+ perpus.<br>
 *lalu si sistem memberikan pesan ke admin bahwa admin sudah login 
- ke sistem manajemen perpus.
-*lalu admin perpus masuk ke dalam sistem manajement perpus.
+ ke sistem manajemen perpus.<br>
+*lalu admin perpus masuk ke dalam sistem manajement perpus.<br>
 *setelah login admin perpus melakukan pencarian daftar pustaka
- dari daftar perpus yg di cari oleh pengunjung.
-*lalu sistem memberikan pustaka yg dicari oleh admin.
+ dari daftar perpus yg di cari oleh pengunjung.<br>
+*lalu sistem memberikan pustaka yg dicari oleh admin.<br>
 *lalu admin mencarikan seorang yg berada di sistem perpus
- untuk mencari pustaka yg di cari oleh pengunjung.
-*sistem meminta izin akses peminjaman yg diminta oleh pengunjung perpus.
+ untuk mencari pustaka yg di cari oleh pengunjung.<br>
+*sistem meminta izin akses peminjaman yg diminta oleh pengunjung perpus.<br>
 *lalu admin memberikan akses peminjman kepada sistem untuk meminjmkan buku 
- kepada pengunjung.
-*admin melakukan pencarian peminjaman di sistem.
-*lalu admin melakukan pencarian anggota yg meminjam pustaka.
+ kepada pengunjung.<br>
+*admin melakukan pencarian peminjaman di sistem.<br>
+*lalu admin melakukan pencarian anggota yg meminjam pustaka.<br>
 *apa bila sudah ketemu sistem memberikan pustaka yg dicari oleh pengunjung 
- atas izin admin.
+ atas izin admin.<br>
 
 # dfd level 1
 ![level1](img/Level1.jpg)
