@@ -1,6 +1,5 @@
 # studi-kasus-data-flow-diagram
 
-
-Kamus data abdan syakura 
-! [Kamus data](img/KAMUS%20DATA.jpg)
+# DFD level 0 :
+! [level 0](img/DFD%20level%200/level0.jpeg)
 
