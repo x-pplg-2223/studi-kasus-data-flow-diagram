@@ -5,7 +5,7 @@
 
  [Anggota/Pengunjung perpustakaan] <br> pengunjung yang ingin meminjam ke perpustakaan
  <br>
- [Petugas Perpustakaan] <br> petugas yang memenuhi permintaan dari pengunjung yang di dapat dari sistem pengelola
+ <b>[Petugas Perpustakaan]</b> <br> petugas yang memenuhi permintaan dari pengunjung yang di dapat dari sistem pengelola
  <br>
  (mengelola sistem informasi manajemen perpustakaan) <br> sistem yang mengelola permintaan pengunjung dan memenuhi permintaan pengunjung yang di dapatkan dari petugas 
 
