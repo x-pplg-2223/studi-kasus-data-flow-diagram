@@ -18,4 +18,21 @@ penjelasan berbagai komponen pada DFD diatas adalah sebagai berikut:
 
 LVL 2.2
 penjelasan berbagai komponen pada DFD diatas adalah sebagai berikut:
+- pada tahapan ini terdapat 2 previlege yaitu anggota dan previlege khusus petugas
+- tahapan yang ada pada previlege anggota adalah melihat pustaka, dan mencari pustaka. dengan tahapan awal adalah sistem membaca dengan data pada status login yang ada yang lalu dengan mencari buku dengan tanpa pengarang atau dengan pengarang yang kemudian setelah data tersebut diambil data semua tersebut kembali ke sistem awal.
+- tahapan yang ada pada previlege petugas adalah memasukan pustaka, mengubah, menghapus, melihat, dan mencari pustaka.
+
+LVL 2.3
+penjelasan berbagai komponen pada DFD diatas adalah sebagai berikut:
+- tahapan mengelola anggota adalah tahapan yang dimana terdapat previlege tertentu yang akan bisa mengakses beberada informasi dan data, seperti memasukan anggota, mengubah anggota, menghapus anggota, melihat anggota, dan mencari anggota.
+- di tahap ini petugas bisa mencarikan data informasi anggota dengan melihat status anggota di sistem lalu petugas mencari pada laman anggota tanpa telepon jika data yang ingin dicari terdapat didalam pada sistem data anggota tanpa telepon.
+
+LVL 2.4
+penjelasan berbagai komponen pada DFD diatas adalah sebagai berikut:
+- di tahapan ini adalah tahapan dimana petugas mengecek informasi untuk peminjaman yang ada pada anggota, dengan contoh petugas melihat informasi peminjaman anggota 2 dengan buku Bahasa inggris. dan sistem awal awal akan memeriksa status login terlebih dahulu agar dapat melihat atau mengakses informasi peminjaman lebih lanjut.
+- lalu tahap kedua petugas bisa menghapus peminjaman setelah memperoleh data anggot peminjam dan tahap ini petugas bisa menghapus peminjaman berupa menghapus buku peminjaman atau menghapus peminjaman karena telah selesai peminjaman.
+
+LVL 2.5
+penjelasan berbagai komponen pada DFD diatas adalah sebagai berikut:
+
 
