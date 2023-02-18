@@ -42,14 +42,12 @@ ada beberapa proses yang pertama memasukkan peminjaman atau buku apa yang akan d
 # dfd level 2 no5
 ![level2](img/level2no5.jpg)
 
-### Selanjutnya DFD level 2 - (mengelola petugas)
-\
+### Selanjutnya DFD level 2 - (mengelola petugas) \
 Status login sebagai petugas masukkan petugas selanjutnya mengubah petugas selanjutnya melihat petugas selanjutnya mencari petugas
 \
 # Kamus Data 
 ![KamusData](img/KamusData.jpg)
 
-## Kamus Data
-\
+## Kamus Data \
 Nama dari datanya adalah login 
 ,lalu proses login masukan (input) seperti id dan password lalu status login lalu proses memeriksa status login keluaran (output) masukkan (input) akan memeriksa login sebagai apa, apakah petugas atau anggota, selanjutnya status login ya atau tidak.
