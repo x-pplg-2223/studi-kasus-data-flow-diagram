@@ -2,7 +2,7 @@
 
 !['DFD Level 0'](https://a.top4top.io/p_2600vaiu61.jpeg)
 
-penjelasan :
+## penjelasan :
 
 (Anggota/Pengunjung perpustakaan)
 Anggota/Pengunjung Perpustakaan adalah Seorang Anggota atau pengunjung yang ingin meminjam ke perpustakaan.
@@ -13,7 +13,7 @@ Adalah  proses dari sebuah sistem yang mengelola peminjaman dan memenuhi permint
 (Petugas Perpustakaan)
 Petugas Perpustakaan adalah seorang petugas yang memenuhi permintaan/pinjaman dari pengunjung yang sudah di proses dan sudah mendapat izin dari sistem yang mengelola informasi manajemen perpustakaan.
 
-Proses Diagram diatas :
+## Proses Diagram diatas :
 
 - Anggota/pengunjung mula-mula dia akan melakukan pencarian pustaka yang ada di sistem informasi manajemen perpustakaan
 
