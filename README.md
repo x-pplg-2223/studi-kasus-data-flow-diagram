@@ -13,8 +13,8 @@ Lalu setelah DFD level 0 DFD level satu,merupakan hasil break down dari DFD leve
 ![Kamusdata](img/Level2no1.png)
 \
 Selanjutnya DFD level 2
- di dalam mengelola pustaka ada  pustaka tanpa pengarang yang akan di proses di mengelola pustaka ada beberapa proses di dalam mengelola pustaka seperti memasukan pustaka mengubah pustaka menghapus pustaka melihat pustaka
- \
+di dalam mengelola pustaka ada  pustaka tanpa pengarang yang akan di proses di mengelola pustaka ada beberapa proses di dalam mengelola pustaka seperti memasukan pustaka mengubah pustaka menghapus pustaka melihat pustaka
+\
 # dfd level 2 no2
 ![level2](img/level2n02.png)
 \
@@ -24,22 +24,26 @@ Ada beberapa proses yaitu memasukan pustaka setelah itu mengubah nya setelah itu
 # dfd level 2 no3
 ![level2](img/level2no3.png)
 \
-Selanjutnya DFD level 2 -(mengelola anggota)
- ada beberapa proses dalam mengelola anggota yaitu memasukan anggota memasukkan telpon anggota selanjutnya mengubah nya selanjutnya menghapus anggota melihat anggota atau mengecek kembali apakah ada yang harus diperbaiki jika memang sudah selesai selanjutnya mencari anggota
+## Selanjutnya DFD level 2 -(mengelola anggota)
+ada beberapa proses dalam mengelola anggota yaitu memasukan anggota memasukkan telpon anggota selanjutnya mengubah nya selanjutnya menghapus anggota melihat anggota atau mengecek kembali apakah ada yang harus diperbaiki jika memang sudah selesai selanjutnya mencari anggota
 # dfd level 2 no4
 ![level2](img/level2no4.jpg)
 \
-Selanjutnya DFD level 2 mengelola peminjaman ada beberapa proses yang pertama memasukkan peminjaman atau buku apa yang akan di pinjaman lalu di proses selanjutnya mengubah peminjaman jika ingin mengubah buku yang ingin di pinjam selanjutnya menghapus peminjaman selanjutnya melihat siapa yang meminjam setelah itu mencari peminjam
+## Selanjutnya DFD level 2 (mengelola peminjaman)
+\
+ada beberapa proses yang pertama memasukkan peminjaman atau buku apa yang akan di pinjaman lalu di proses selanjutnya mengubah peminjaman jika ingin mengubah buku yang ingin di pinjam selanjutnya menghapus peminjaman selanjutnya melihat siapa yang meminjam setelah itu mencari peminjam
 \
 # dfd level 2 no5
 ![level2](img/level2no5.jpg)
 \
-Selanjutnya DFD level 2 - (mengelola petugas)
- Status login sebagai petugas masukkan petugas selanjutnya mengubah petugas selanjutnya melihat petugas selanjutnya mencari petugas
- \
+## Selanjutnya DFD level 2 - (mengelola petugas)
+\
+Status login sebagai petugas masukkan petugas selanjutnya mengubah petugas selanjutnya melihat petugas selanjutnya mencari petugas
+\
 # Kamus Data 
 ![KamusData](img/KamusData.jpg)
 \
-Kamus Data 
+## Kamus Data
+\
 Nama dari datanya adalah login 
 ,lalu proses login masukan (input) seperti id dan password lalu status login lalu proses memeriksa status login keluaran (output) masukkan (input) akan memeriksa login sebagai apa, apakah petugas atau anggota, selanjutnya status login ya atau tidak.
