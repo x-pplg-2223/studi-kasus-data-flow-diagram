@@ -11,11 +11,18 @@
 <br>
 
 [Anggota/Pengunjung perpustakaan]
+<br>
 Pengunjung yang ingin meminjam dari perpustakaan 
+<br>
+
 (Sistem Informasi Manajemen Perpustakaan Administrasi)
-Sebuah sistem untuk mengelola permintaan pengunjung dan memenuhi permintaan pengunjung yang diperoleh dari Admin 
-[Petugas Perpustakaan]
-Admin yang memenuhi permintaan pengunjung yang diperoleh dari sistem manajemen aliran data>>
+<br>
+Sebuah sistem untuk mengelola permintaan pengunjung dan memenuhi permintaan pengunjung yang diperoleh dari Petugas/admin 
+<br>
+
+[Petugas Perpustakaan] 
+<br>
+Petugas/admin yang memenuhi permintaan pengunjung yang diperoleh dari sistem manajemen aliran data>>
 - Pencarian Perpustakaan - Anggota/Pengunjung melakukan pencarian perpustakaan di sistem informasi.
 - Login - Petugas/admin melakukan login ke sistem informasi.
 - Pesan login/logout - Sistem informasi memberikan notifikasi/pesan kepada petugas.
