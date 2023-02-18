@@ -1,12 +1,10 @@
 ### DFD LVL 0
 
-[![dfd-drawio.png](https://i.postimg.cc/qqCMzzkB/dfd-drawio.png)](https://postimg.cc/7JwyRPGj)
-
+[![dfd-drawio.png](https://i.postimg.cc/qqCMzzkB/dfd-drawio.png)](https://postimg.cc/7JwyRPGj)<br>
 ___
 ### DFD LVL 1
 
-[!['DFD LVL 1'](folders/DFD-level_1.svg)
-
+[!['DFD LVL 1'](folders/DFD-level_1.svg)<br>
 ___
 ### DFD LVL 2.1
 
