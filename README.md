@@ -25,9 +25,9 @@
 # dfd level 2 no1
 ![Kamusdata](img/Level2no1.png)
 # dfd level 2 no2
-![level2](img/level2n02.png)
+![level2](img/level2no3.jpeg)
 # dfd level 2 no3
-![level2](img/level2no3.png)
+![level2](img/level2no3.jpeg)
 # dfd level 2 no4
 ![level2](img/level2no4.jpg)
 # dfd level 2 no5
