@@ -8,22 +8,22 @@ ___
 ___
 ### DFD LVL 2.1
 
-!['DFD LVL 2.1'](folders/DFD-level_2_1.)
+!['DFD LVL 2.1'](folders/DFD-level_2_1_Revisi.svg)
 
 ___
 ### DFD LVL 2.2
 
-![''](folders/DFD-Level_2_2.svg)
+![''](folders/DFD-Level_2_2_Revisi.svg)
 
 ___
 ### DFD LVL 2.3
 
-!['DFD LVL 2.3'](folders/DFD-level_2_3.svg)
+!['DFD LVL 2.3'](folders/DFD-level_2_3_Revisi.svg)
 
 ___
 ### DFD LVL 2.4
 
-!['DFD LVL 2.4'](folders/DFD-LEVEL_2_4.svg)
+!['DFD LVL 2.4'](folders/DFD-level_2_5_Revisi.svg)
 
 ___
 ### DFD LVL 2.5
