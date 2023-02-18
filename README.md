@@ -38,29 +38,45 @@
 5. status login mengalirkan data ke proses menghapus anggota,selanjutnya mengalirkan data anggota  tanpa telepon ke prtugas 
 6. anggota mengalirkan data ke proses menghapus anggota,selanjutnya mengalirkan data telepon anggota ke petugas
 7. status login mengalirkan  data ke proses melihat anggota,selanjutnya petugas mengalirkan data anggota tanpa telepon ke proses melihat anggota
-8. proses melihat anggota mengalirkan data anggota ke petugas,selanjutnya data penyimpanan petugas mengalirkan data telepon anggota ke proses anggota
+8. proses melihat anggota mengalirkan data anggota ke penyimpanan petugas,selanjutnya data penyimpanan petugas mengalirkan data telepon anggota ke proses anggota
 9. status login mengalirkan data ke proses mencari anggota,selanjutnya petugas mengalirkan data anggota tanpa telepon ke proses mencari anggota
 10. pencarian anggota mengalirkan data ke proses mencari anggota
 11. proses mencari anggota mengalirkan data anggota ke petugas,selanjutnya data penyimpan petugas mengalirkan data telepon anggota ke proses mencari anggota
 # DFD-level-2-mengelola peminjaman
 [![dfd-Level-2-peminjaman.png](https://i.postimg.cc/59Lj5P05/dfd-Level-2-peminjaman.png)](https://postimg.cc/Th2RfJnh)
+1. status login memasukan data ke proses memasukkan peminjaman
+2. data peminjaman mengalirkan data peminjaman ke proses memasukkan peminjaman
+3. proses memasukkan peminjaman mengalirkan data peminjaman kepada petugas
+4. status login memasukkan data ke proses mengubah peminjaman
+5. data peminjaman mengalirkan data peminjaman ke proses mengubah peminjaman
+6. proses mengubah peminjaman mengalirkan data peminjaman kepada petugas
+7. status login memasukkan data ke proses menghapus peminjaman
+8. data peminjaman mengalirkan data peminjaman ke proses menghapus pemijaman
+9. proses menghapus peminjaman mengalirkan data peminjaman kepada petugas
+10. status login memasukkan data ke proses melihat peminjaman
+11. proses mengalirkan data peminjaman ke penyimpanan data peminjaman
+12. petugas mengalirkan data peminjaman ke proses melihat peminjaman
+13. status login memasukkan data ke proses mencari peminjaman
+14. peminjaman mengalirkan data pencarian peminjaman ke mencari peminjaman
+15. proses mengalirkan data peminjaman ke penyimpanan data peminjaman
+16. petugas mengalirkan data peminjaman ke proses mencari peminjaman
 # DFD-level-2-mengelola petugas
 [![dfd-level2-meneglola-petugas.png](https://i.postimg.cc/nLb30Y1Z/dfd-level2-meneglola-petugas.png)](https://postimg.cc/68cVQZS1)
-1. Status  login memasukan data ke proses memasukan petugas 
+1. Status login memasukan data ke proses memasukan petugas 
 2. data petugas mengalirkan data petugas ke proses memasukan petugas
 3. proses memasukan petugas mengalirkan data petugas kepada petugas
 1. status login memasukan data ke proses mengubah petugas
 2. data petugas mengalirkan data petugas ke proses mengubah petugas
 3. proses mengubah petugas mengalirkan data petugas ke petugas
 1. status login memasukan data ke proses menghapus petugas
-2. data petugas mengalirkan data petugas ke peroses menghapus petugas
+2. data petugas mengalirkan data petugas ke proses menghapus petugas
 3. proses menghapus data petugas mengalirkan data ke petugas
 1. status login memasukan data ke proses ke melihat petugas
 2. proses data mengalirkan data petugas ke petugas
-3. petugas mengalirkan data petugas ke mnelihat petugas
+3. petugas mengalirkan data petugas ke melihat petugas
 1. status login memasukan data ke proses mencari petugas
 2. petugas mengalirkan data pencarian petugas ke mencari petugas
-3. proses mengalirkan data petugas ke  penyimpanan data petugas
-4. petugas mengalirkan data petugas ke   proses mencari petugas
+3. proses mengalirkan data petugas ke penyimpanan data petugas
+4. petugas mengalirkan data petugas ke proses mencari petugas
 # KAMUS DATA
 [![KAMUSDATA.png](https://i.postimg.cc/1zvv0gJr/KAMUSDATA.png)](https://postimg.cc/gw6ym09x)
