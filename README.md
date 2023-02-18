@@ -19,7 +19,7 @@
 *admin melakukan pencarian peminjaman di sistem.<br>
 *lalu admin melakukan pencarian anggota yg meminjam pustaka.<br>
 *apa bila sudah ketemu sistem memberikan pustaka yg dicari oleh pengunjung 
- atas izin admin.<br>
+  atas izin admin.<br>
 # dfd level 1
 ![level1](img/Level1.jpg)
 # dfd level 2 no1
