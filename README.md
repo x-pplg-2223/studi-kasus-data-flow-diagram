@@ -6,7 +6,7 @@
 <i>catatan :
 Klik dibawah ini untuk melihat Diagram!
 </i>
-<img src='C:\Users\ADJI\Documents\DPL\studi-kasus-data-flow-diagram\img' align="right" width="230">
+<img src='C:\Users\ADJI\Documents\DPL\studi-kasus-data-flow-diagram\img\hello.png' align="right" width="230">
 
 # Klik Disini!
 
