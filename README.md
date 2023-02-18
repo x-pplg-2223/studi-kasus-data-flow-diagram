@@ -1,32 +1,29 @@
 # studi-kasus-data-flow-diagram
 # dfd level 0
 ![level0](img/Ripa.jpg)
-[Anggota/pengunjung perpustakaan] <br> pengunjung yang ingin meminjam ke perpustakaan
-<br>
-[prtugas perpustakaan] <br> petugas yang memenuhi permintaan dari pengunjung yang di dapat dari sistem
-<br>
-(mengelola sistem informasi manajemen perpustakaan) <br> sistem yang mengelola permintaan pengunjung dan 
-memenuhi permintaan pengunjung yang di dapatkan dari prtugas
-<br>
--si pengunjung melakukan pencarian pustaka di sistem informasi
- manajemen perpus.<br>
--sistem memberitahukan si admin agar login ke sistem manajemen
- perpus.<br>
--lalu si sistem memberikan pesan ke admin bahwa admin sudah login 
- ke sistem manajemen perpus.<br>
--lalu admin perpus masuk ke dalam sistem manajement perpus.<br>
--setelah login admin perpus melakukan pencarian daftar pustaka
- dari daftar perpus yg di cari oleh pengunjung.<br>
--lalu sistem memberikan pustaka yg dicari oleh admin.<br>
--lalu admin mencarikan seorang yg berada di sistem perpus
- untuk mencari pustaka yg di cari oleh pengunjung.<br>
--sistem meminta izin akses peminjaman yg diminta oleh pengunjung perpus.<br>
--lalu admin memberikan akses peminjman kepada sistem untuk meminjmkan buku 
- kepada pengunjung.<br>
--admin melakukan pencarian peminjaman di sistem.<br>
--lalu admin melakukan pencarian anggota yg meminjam pustaka.<br>
--apa bila sudah ketemu sistem memberikan pustaka yg dicari oleh pengunjung 
- atas izin admin.<br>
+[Anggota/Pengunjung perpustakaan]<br>
+pengunjung yang ingin meminjam ke perpustakaan<br>
+(mengelola sistem informasi manajemen perpustakaan)<br>
+sistem yang mengelola permintaan pengunjung dan memenuhi permintaan pengunjung yang di dapatkan dari petugas<br>
+[Petugas Perpustakaan]<br>
+petugas yang memenuhi permintaan dari pengunjung yang di dapat dari sistem pengelola<br>
+aliran data >><br>
+-pencarian pustaka- anggota/pengunjung melakukan pencarian pustaka di sistem informasi<br>
+-login- petugas perpustakaan melakukan login pada sistem informasi<br>
+-pesan login/logout- sistem informasi memberikan notif/pesan kepada petugas perpustakaan<br>
+-pencarian pustaka- petugas perpustakaan mengirim pencarian pustaka ke sistem informasi<br>
+-pustaka- sistem informas memberikan pustaka pada petugas perpustakaan<br>
+-pustaka- petugas perpustakaan memberikan pustaka yang dicari pengunjung ke sistem informasi<br>
+-pencarian anggota- petugas perpustakaan melakukan pencarian anggota di database sistem informasi<br>
+-anggota- sistem informasi memberikan data anggota pada petugas perpustakaan<br>
+-anggota- petugas perpustakaan memberikan akses anggota kepada sistem informasi<br>
+-pencarian peminjaman- petugas perpustakaan melakukan pencarian peminjaman di sistem informasi<br>
+-peminjaman- petugas perpustakaan melakukan peminjaman pada sistem informasi<br>
+-peminjaman- sistem memberikan peminjaman ke petugas perpustakaan<br>
+-pencarian petugas- petugas mencari data petugas<br>
+-petugas- petugas memberikan akses untuk memberikan pustaka<br>
+-petugas- sistem informasi memberikan konfirmasi pada petugas perpustakaan<br>
+-pustaka- sistem memberikan pustaka pada anggota/pengunjung perpustakaan<br>
 
 # dfd level 1
 ![level1](img/Rip.jpg)
