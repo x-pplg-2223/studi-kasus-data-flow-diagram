@@ -1,10 +1,21 @@
+LVL 0
 Penjelasan berbagai komponen pada DFD diatas adalah sebagai berikut:
 - pada tahapan awal Anggota/pengunjung adalah memasukan informasi pribadi berupa nama, nomor Handphone, dan email.
-- kemudian sistem akan mengirimkan pesan login kepada petugas dan akan dikirimkan oleh petugas menjadi akun untuk previlage anggota dan dikirimkan kepada Pengelola sistem informasi Manajemen perpustakaan kemudian data Anggota akan disimpan sehingga akan memudahkan Anggota untuk melakukan peminjaman atau pencarian.
+- kemudian sistem akan mengirimkan pesan login kepada petugas dan akan dikirimkan oleh petugas menjadi akun untuk previlege anggota dan dikirimkan kepada Pengelola 
+sistem informasi Manajemen perpustakaan kemudian data Anggota akan disimpan sehingga akan memudahkan Anggota untuk melakukan peminjaman atau pencarian.
 - tahapan anggota mencari buku ke sistem(buku IPS),kemudian pencarian tersebut diterima oleh petugas dan petugas mengirimkan list buku(IPS) dan anggota memilih buku yang di inginkan kemudian petugas mencari anggota yang menginginkan buku(IPS) tersebut, lalu petugas mengirimkan data buku tersebut ke sistem dan sistem mengirimkan datanya ke anggota.
 - tahapan anggota mencari buku dan meminjam, pada tahapan ini sistem akan mengirimkan pesan login kepada petugas perpustakaan dan mengirimkan kembali data login dari petugas ke sistem informasi, di mengelola sistem perpus anggota ke pustaka dan pencarian peminjaman berupa buku dan mencarinya dalam pustaka lalu akan dikirim ke sistem kemudian anggota akan memasukannya kedalam peminjaman yang akang di terima oleh petugas perpustakaan. lalu sistem akan meminta data berupa data anggota dan petugas dan akan disimpan ke sistem mengelola perpustakaan dan lalu dikirimkan kembali kepada anggota.
 
+LVL 1
 penjelasan berbagai komponen pada DFD diatas adalah sebagai berikut:
 - DFD di atas adalah penggambaran proses yang dilakukan oleh sistem untuk petugas dan anggota, proses didalamnya meliputi mengelola pustaka, mengelola peminjaman, melakukan mengelola anggota, petugas dan data, dan data login dan logout, melakukan pemeriksaaan status login
 - disini adalah tahapan anggota mencari pustaka dan peminjaman buku, ditahap pertama ini sistem mencari pustaka akan meminta data pustaka kepada petugas perpustakaan, dan ditahap ini petugas perpustakaan akan mengirimkan beberada data kepada mengelola pustaka, jika anggota mencari pustaka tanpa pengarang maka akan data tersebut akan dikirim kedalam storage pustaka, dan pustaka tanpa pengarang langsung kembali kesistem utama. dan jika anggota mencari pustaka berupa pengarang, makan sistem akan mengirimkan kepada storage pengarang dan pencarian baru akan dikirimkan ke sistem utama. tahap selanjutnya adalah petugas perpustakaan sistem mengirimkan data berupa login petugas yang kemudian memasukan data data petugas dan memeriksa status loginnya lalu tahap kemudian sistem memeriksa status login pada mengelola anggota yang akan meminjam buku pada perpustakaan dengan mengambil data anggota telepon di storage telepon dan lalu dikirimkan kembali ke mengelola petugas dan kemudian dikirimkan kepada sistem utama dan lalu terakhir kepada anggota.
- 
+
+LVL 2.1
+penjelasan berbagai komponen pada DFD diatas adalah sebagai berikut:
+- tahapan ini adalah tahapan untuk previlege petugas, di tahap ini data yang akan masuk seperti buku pustaka tanpa pengarang dan buku terdapat pengarang pusta pada mengelola pustaka akan bisa diubah dengan previlege yang khusus petugas, seperti Memasukan pustaka, Mengubah pustaka, Menghapus pustaka dan terlebih melewati dengan pengecekan status login agar dapat melakukan hal tersebut. lalu data terakhir tersebut bisa dikembalikan ke sistem lainnya. 
+- tahap ini bisa diakses oleh privilege yang dimiliki anggota yaitu dengan melihat pustaka dengan melewati fase status login dan pustaka tanpa pengarang dan pengarang pustaka pada laman melihat pustaka.
+
+LVL 2.2
+penjelasan berbagai komponen pada DFD diatas adalah sebagai berikut:
+
