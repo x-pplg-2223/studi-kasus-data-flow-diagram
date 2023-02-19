@@ -88,21 +88,21 @@ Mengelola Pustaka mengenai tentang memasukan Pustaka,mengubah Pustaka ,menghapus
 # level 2 mengelola pustaka
 [![level-2-mengelola-pustaka.jpg](https://i.postimg.cc/85QT6B0n/level-2-mengelola-pustaka.jpg)](https://postimg.cc/hJsFFxg9)
 1. Status login memasukan data ke proses memasukan pustaka
-	2. Petugas mengalirkan data pustaka kepada proses memasukan  pustaka 
-	3. Proses memasukan pustaka mengalirkan data  pustaka tanpa pengarang kepada petugas
-	4. Proses memasukan pustaka mengalirkan data pengarang pustaka kepada petugas
-	5. Status login memasukan data ke proses mengubah pustaka
-	6. Petugas mengalirkan data pustaka kepada proses mengubah pustaka
-	7. Proses memasukan pustaka mengalirkan data  pustaka tanpa pengarang kepada petugas
-	8. Proses memasukan pustaka mengalirkan data pengarang pustaka kepada petugas
-	9. Status login mengalirkan data ke menghapus pustaka
-	10. Petugas mengalirkan data pustaka kepada proses menghapus pustaka
-	11. Proses memasukan pustaka  mengalirkan data tanpa pengarang kepada petugas
-	12. Proses memasukan pustaka mengalirkan data pengarang pustaka kepada petugas
-	13. Status login mengalirkan data ke proses melihat pustaka
-	14. Proses mengalirkan pustaka mengalirkan data   pustaka 
-	15. Petugas mengalirkan data petugas tanpa pengarang ke proses melihat pustaka
-	16. Petugas mengalirkan data pengarang pustaka kepada proses  melihat pustaka
+2. Petugas mengalirkan data pustaka kepada proses memasukan  pustaka 
+3. Proses memasukan pustaka mengalirkan data  pustaka tanpa pengarang kepada petugas
+4. Proses memasukan pustaka mengalirkan data pengarang pustaka kepada petugas
+5. Status login memasukan data ke proses mengubah pustaka
+6. Petugas mengalirkan data pustaka kepada proses mengubah pustaka
+7. Proses memasukan pustaka mengalirkan data  pustaka tanpa pengarang kepada petugas
+8. Proses memasukan pustaka mengalirkan data pengarang pustaka kepada petugas
+9. Status login mengalirkan data ke menghapus pustaka
+10. Petugas mengalirkan data pustaka kepada proses menghapus pustaka
+11. Proses memasukan pustaka  mengalirkan data tanpa pengarang kepada petugas
+12. Proses memasukan pustaka mengalirkan data pengarang pustaka kepada petugas
+13. Status login mengalirkan data ke proses melihat pustaka
+14. Proses mengalirkan pustaka mengalirkan data   pustaka 
+15. Petugas mengalirkan data petugas tanpa pengarang ke proses melihat pustaka
+16. Petugas mengalirkan data pengarang pustaka kepada proses  melihat pustaka
 # level 2 mengelola anggota
 [![level-2-mengelola-anggota.jpg](https://i.postimg.cc/VLLmnNK1/level-2-mengelola-anggota.jpg)](https://postimg.cc/YjV5wtcy)
 1. status login memasukkan data ke proses anggota,selanjutnya mengalirkan data anggota tanpa telepon ke petugas
