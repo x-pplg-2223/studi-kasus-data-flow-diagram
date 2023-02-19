@@ -103,8 +103,24 @@ Proses Mencari peminjaman:<br>
 -pencarian peminjaman- proses mengambil data peminjaman yang di cari<br>
 -pemijaman- proses mengambil dan mengirim data peminjaman yang di cari<br>
 
-# dfd level 2 no 5a
+# dfd level 2 no 5
 ![level2no5](img/petugas.jpeg)
+<br>Proses Memasukkan Petugas:<br>
+-status login- proses mengambil dan mengecek data status login dari data sebelumnya<br>
+-petugas- proses mengambil dan mengirim data petugas yang ingin dimasukkan<br>
+Proses Mengubah Petugas:<br>
+-status login- proses mengambil dan mengecek data status login dari data sebelumnya<br>
+-petugas- proses mengambil dan mengirim data petugas yang ingin diubah<br>
+Proses Menghapus Petugas:<br>
+-status login- proses mengambil dan mengecek data status login dari data sebelumnya<br>
+-petugas- proses mengambil dan mengirim data petugas yang ingin dihapus<br>
+Proses Melihat Petugas:<br>
+-status login- proses mengambil dan mengecek data status login dari data sebelumnya<br>
+-petugas- proses mengambil dan mengirim data petugas yang ingin dilihat<br>
+Proses Mencari Petugas:<br>
+-status login- proses mengambil dan mengecek data status login dari data sebelumnya<br>
+-mencari petugas- proses mengambil data petugas yang dicari<br>
+-petugas- proses mengambil dan mengirim data petugas yang dicari<br>
 
 # kamusdata
 ![kamusdata](img/kamusdataasli.jpeg) 
