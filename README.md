@@ -2,7 +2,9 @@
 
 <b><u>
 Nama  : Nazam Ahmad Fahreyza
+<br>
 Kelas : X PPLG 1
+<br>
 Kelompok 2
 </b></u>
 
