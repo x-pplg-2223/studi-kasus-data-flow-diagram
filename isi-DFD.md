@@ -38,7 +38,7 @@ penjelasan berbagai komponen pada DFD diatas adalah sebagai berikut:
 - di tahap ini petugas bisa mencarikan data informasi anggota dengan melihat status anggota di sistem lalu petugas mencari pada laman anggota tanpa telepon jika data yang ingin dicari terdapat didalam pada sistem data anggota tanpa telepon.
 ___
 ### DFD LVL 2.4
-git 
+ 
 !['DFD LVL 2.4'](folders/DFD-LEVEL_2_4.svg)<br>
 penjelasan berbagai komponen pada DFD diatas adalah sebagai berikut:
 - di tahapan ini adalah tahapan dimana petugas mengecek informasi untuk peminjaman yang ada pada anggota, dengan contoh petugas melihat informasi peminjaman anggota 2 dengan buku Bahasa inggris. dan sistem awal awal akan memeriksa status login terlebih dahulu agar dapat melihat atau mengakses informasi peminjaman lebih lanjut.
@@ -47,6 +47,10 @@ ___
 ### DFD LVL 2.5
 
 !['DFD LVL 2.5'](folders/DFD-level_2_5_Revisi.svg)<br>
+penjelasan berbagai komponen pada DFD diatas adalah sebagai berikut:
+- pada tahapan ini mengelola petugas yang bisa mengakses atau yang mempunyai previlege data data petugas yaitu admin/petugas perpustakaan setelah prosedur peminjaman petugas mengirimkan daftar nama petugas untuk melayani seperti peminjaman, penginput tanggal dsb. 
+
+- dan pada tahapan ini admin juga bisa menghapus petugas , mengubah petugas dan juga mencari petugas tentunya hal diatas bisa dilakukan dengan melalui setelah proses pengecekan status login.
 ___
 ### KAMUS DATA
 
