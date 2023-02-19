@@ -33,7 +33,7 @@ aliran data >><br>
 
 # dfd level 2 no 2
 ![level2no2](img/ke-2.jpeg)
-Proses Memasukkan pustaka:<br>
+<br>Proses Memasukkan pustaka:<br>
 -status login- proses mengambil dan mengecek data status login dari proses sebelumnya<br>
 -pustaka- proses mengambil data pustaka yang ingin dimasukkan<br>
 -pustaka tanpa pengarang- proses memberikan data data pustaka tanpa pengarang ke proses selanjutnya<br>
