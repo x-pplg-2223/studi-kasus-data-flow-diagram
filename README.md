@@ -13,9 +13,9 @@
 Penjelasan pada DFD diatas bisa seperti ini
 <br> 
  
-Bisa di lihat di atas gambar berikut di dfd level 0 mempunyai sebuah sistem yaitu sistem mengelola informasi manajemen perpustakaan di gambar tersebut ada dua entitas/aktor yang terlibat yaitu ada anggota perpustakaan dan petugas perpustakaan.
+* Bisa di lihat di atas gambar berikut di dfd level 0 mempunyai sebuah sistem yaitu sistem mengelola informasi manajemen perpustakaan di gambar tersebut ada dua entitas/aktor yang terlibat yaitu ada anggota perpustakaan dan petugas perpustakaan.
 
-pada tahap awal pengunjung akan mencari sebuah buku kemudian diterima sistem dan dikirim ke petugas perpustakaan,karena pengunjung tersebut belum login(login tersebut berguna untuk mendapatkan privillage anggota perpustakaan), maka petugas akan mengirim pesan login ke pengunjung tersebut, saat sudah login kemudian pesan login tersebut terkirim ke petugas perpustakaan. dan pengunjung kembali ke halaman awal untuk mencari buku.anggota mencari buku ke sistem(buku mtk),kemudian pencarian tersebut diterima oleh petugas dan petugas mengirimkan list buku(mtk) dan anggota memilih buku yang di inginkan kemudian petugas mencari anggota yang menginginkan buku(mtk) tersebut, lalu petugas mengirimkan data buku ke sistem dan sistem mengirimkan datanya ke anggota.
+* Pada tahap awal pengunjung akan mencari sebuah buku kemudian diterima sistem dan dikirim ke petugas perpustakaan,karena pengunjung tersebut belum login(login tersebut berguna untuk mendapatkan privillage anggota perpustakaan), maka petugas akan mengirim pesan login ke pengunjung tersebut, saat sudah login kemudian pesan login tersebut terkirim ke petugas perpustakaan. Dan pengunjung kembali ke halaman awal untuk mencari buku.anggota mencari buku ke sistem (buku progarming),kemudian pencarian tersebut diterima oleh petugas dan petugas mengirimkan list buku tentang (Programing/Coding) dan anggota memilih buku yang di inginkan kemudian petugas mencari anggota yang menginginkan buku (Programing) pilihannya tersebut, lalu petugas mengirimkan data buku ke sistem dan sistem mengirimkan datanya ke anggota.
 
 ## DFD level 1
 ### Ini contoh level 1 :
@@ -35,25 +35,50 @@ Penjelasan dari DFD diatas bisa seperti ini :
 ## DFD level 2
 
 #### Ini contoh ( Mengelola Pustaka 2.1 ) :
+
+!['DFD.Diagram'](https://l.top4top.io/p_2601g1wox1.png)
+<br>
+
 Penjelasan pada DFD diatas bisa seperti ini :
 <br>
 
 * Tahapan ini adalah tahapan untuk previlege petugas, di tahap ini data yang akan masuk seperti buku pustaka tanpa pengarang dan buku terdapat pengarang pusta pada mengelola pustaka akan bisa diubah dengan previlege yang khusus petugas, seperti Memasukan pustaka, Mengubah pustaka, Menghapus pustaka dan terlebih melewati dengan pengecekan status login agar dapat melakukan hal tersebut. lalu data terakhir tersebut bisa dikembalikan ke sistem lainnya.
-* Tahap ini bisa diakses oleh privilege yang dimiliki anggota yaitu dengan melihat pustaka dengan melewati fase status login dan pustaka tanpa pengarang dan pengarang pustaka pada laman melihat pustaka.
 
-!['DFD.Diagram'](https://l.top4top.io/p_2601g1wox1.png)
+* Tahap ini bisa diakses oleh privilege yang dimiliki anggota yaitu dengan melihat pustaka dengan melewati fase status login dan pustaka tanpa pengarang dan pengarang pustaka pada laman melihat pustaka.
 
 #### Ini contoh ( Mengelola Pustaka 2.2 ) :
 
 !['DFD.Diagram'](https://l.top4top.io/p_2601esh4o1.png)
+<br>
+
+Penjelasan DFD diatas bisa seperti ini :
+<br>
+
+* Pada tahapan ini terdapat 2 previlege yaitu anggota dan previlege khusus petugas.
+
+* Tahapan yang ada pada previlege anggota adalah melihat pustaka, dan mencari pustaka. Dengan tahapan awal adalah sistem membaca dengan data pada status login yang ada yang lalu dengan mencari buku dengan tanpa pengarang atau dengan pengarang yang kemudian setelah data tersebut diambil data semua tersebut kembali ke sistem awal.
+
+* Tahapan yang ada pada previlege petugas adalah memasukan pustaka, mengubah, menghapus, melihat, dan mencari pustaka.
 
 #### Ini contoh ( Mengelola Anggota 2.3 ) :
 
 !['DFD.Diagram'](https://k.top4top.io/p_2601w1cvk1.png)
+<br>
+
+Penjelasan DFD diatas bisa seperti ini :
+<br>
+
+* Tahapan mengelola anggota adalah tahapan yang dimana terdapat previlege tertentu yang akan bisa mengakses beberada informasi dan data, seperti memasukan anggota, mengubah anggota, menghapus anggota, melihat anggota, dan mencari anggota.
+
+* Di tahap ini petugas bisa mencarikan data informasi anggota dengan melihat status anggota di sistem lalu petugas mencari pada laman anggota tanpa telepon jika data yang ingin dicari terdapat didalam pada sistem data anggota tanpa telepon.
 
 #### Ini contoh ( Mengelola Peminjaman 2.4 ) :
 
 !['DFD.Diagram'](https://k.top4top.io/p_26016zyvp1.png)
+<br>
+
+Penjelasan DFD diatas bisa seperti ini :
+<br>
 
 #### Ini contoh ( Mengelola Petugas 2.5 ) :
 
