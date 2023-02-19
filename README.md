@@ -19,6 +19,18 @@ di gambar tersebut ada dua entitas/aktor yang terlibat yaitu ada anggota perpust
 
 #  DFD-Level-1 :
 [![Diagram-lv-1-new-1.png](https://i.postimg.cc/tRfRfMrx/Diagram-lv-1-new-1.png)](https://postimg.cc/grVPLNbz)
+
+### Penjelasan DFD level 1
+- pada dfd level 0 kemudian diperjelas prosesnya di dfd level 1 ini, berikut penjelasannya
+
+- pada tahapan ini anggota perpustakaan mencari data pustaka ke sistem dan sistem akan meminta data ke petugas perpustakaan apakah sudah login atau belum dan bilamana anggota mencari buku tanpa pengarang maka petugas perpustakaan mengirim data pustaka ke dalam mengelola pustaka dan di proses mengelola pustaka akan mengirimkan buku tanpa pengarang ke dalam storage pustakan dan dikirimkan datanya ke sistem utama dan jika anggota mencari buku dengan pengarang maka petugas akan mengirim ke mengelola pustaka dan di proses lalu dicek ke storage pengarang pustaka dan langsung dikirimkan ke sistem utama.
+
+- di tahap selanjutnya ada mengelola peminjaman anggota akan meminjam sebuah pustaka ke sistem dan sistem meminta petugas perpustakaan untuk mengirimkan data yang ingin dipinjam ke proses mengelola peminjaman ,di proses mengelola peminjaman akan di cek status loginnya jika sudah login maka akan terjadi proses pengecekan peminjaman di storage peminjaman dan dikembalikan data peminjaman ke petugas dan mengirimkannya ke mengelola pustaka jika anggota meminjam buku dengan pengarang makan akan dikirim ke sistem utama lalu ke anggota.
+
+- selanjutnya ada tahap mencari anggota , sama seperti proses sebelumnya anggota akan mencari/meminjam sebuah buku ke sistem dan dikirim ke petugas perpustakaan melalui proses pencarian buku dan ke proses peminjaman sebelum proses peminjaman selesai dicek terelbih dahulu status loginnya jika sudah maka akan di cari anggota yang ingin melakukan peminjaman di proses mengelola anggota petugas akan mengecek data anggota dari storage telepon anggota dan akan diambil dan dikirimkan ke sistem utama agar syarat peminjaman terpenuhi dan sistem akan mengirimkan datanya ke anggota.
+
+- pada proses yang selanjutnya adalah proses mengelola petugas , dan sama proses sebelumnya anggota mencari buku ke sistem melalui proses mengelola pustaka dan meminjam buku melalui proses peminjaman dan memenuhi persyaratan peminjaman melalui proses mengelola anggota dan dikirimkan ke petugas perpustakaan ,setelah data anggota terisi petugas perpustakaan mengirimkan list pencarian petugas ke sistem dan anggota akan memilih petugas yang melayani pencatatan tgl peminjaman buku dan pengembalian buku di tahapan mengelola petugas akan di cek data anggota di storage anggota appakah sudah sesuai/belum setelah sudah sesuai maka dicek status login/logoutnya dan jika sudah makan semua persyaratan peminjaman/pencarian buku sudah terpenuhi dan data pustaka akan di kirim ke petugas perpustakaan dan kemudian dikirim ke sistem utama dan terakhir ke anggota.
+
 # DFD-Level-2 :
 [![Diagram-lv2-new.png](https://i.postimg.cc/kM0fBks5/Diagram-lv2-new.png)](https://postimg.cc/RqTcYpjr)
 # DFD-Level-2-Pustaka :
