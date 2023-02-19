@@ -22,8 +22,7 @@
 17. Dan petugas memberikan data kepada anggota
 # level 1
 [![level1-early.jpg](https://i.postimg.cc/pdDb940P/level1-early.jpg)](https://postimg.cc/d7tSpHPf)
-
-Anggota/pengunjung perpustakaan melakukan pencarian terhadap daftar pustaka
+1. Anggota/pengunjung perpustakaan melakukan pencarian terhadap daftar pustaka
 2. sistem mencari pustaka menerima data tersebut dan memberikan daftar pustaka kepada pengunjung/anggota
 3. mencari pustaka menerima data pengunjung/anggota yang mencari pustaka, kemudian mengirimkan data pustaka kepada petugas 
 4. petugas perpustakaan mendapatkan data pustaka, dan memberikan pencarian daftar pustaka kepada mencari pustaka 
@@ -62,7 +61,7 @@ Anggota/pengunjung perpustakaan melakukan pencarian terhadap daftar pustaka
 37. sistem petugas menerima login petugas perpustakaan
 38. sistem login kemudian memberikan pesan login/logout kepada petugas perpustakaan
 39. jika login terdapat, berarti petugas bisa menjalankan tugasnya
-40. jika logout maka petugas harus login kembali.postimg.cc/VNyNq8SR/level1-early.jpg)](https://postimg.cc/cvmZWPBg)
+40. jika logout maka petugas harus login kembali
  
 # dfd level 2
 [![Whats-App-Image-2023-02-14-at-10-37-12.jpg](https://i.postimg.cc/qMGnpvcL/Whats-App-Image-2023-02-14-at-10-37-12.jpg)](https://postimg.cc/crr6mZbg)
