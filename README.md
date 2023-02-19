@@ -33,14 +33,33 @@ aliran data >><br>
 
 # dfd level 2 no 2
 ![level2no2](img/ke-2.jpeg)
-
+Proses Memasukkan pustaka:
+-status login- proses mengambil dan mengecek data status login dari proses sebelumnya
+-pustaka- proses mengambil data pustaka yang ingin dimasukkan
+-pustaka tanpa pengarang- proses memberikan data data pustaka tanpa pengarang ke proses selanjutnya
+-pengarang pustaka- proses memeberikan data data pengarang pustaka untuk proses selanjutnya
+Proses Mengubah pustaka:
+-status login: proses mengambil dan mengecek data status login dari data sebelumnya
+-pustaka- proses mengambil data pustaka yang ingin diubah
+-pustaka tanpa pengarang- proses memberikan data data pustaka tanpa pengarang ke proses selanjutnya
+-pengarang pustaka- proses memberikan data data pengarang pustaka untuk proses selanjutnya
+Proses Menghapus pustaka:
+-status login- proses mengambil dan mengecek data status login dari proses sebelumnya
+-pustaka- proses mengambil data pustaka yang ingin dihapus
+-pustaka tanpa pengarang- proses memberikan data data pustaka tanpa pengarang ke proses selanjutnya
+-pengarang pustaka- proses memberikan data data pengarang pustaka untuk proses selanjutnya
+Proses Melihat pustaka:
+-status login- proses mengambil dan mengecek data status login dari proses sebelumnya
+-pustaka- proses memberikan data pustaka yang ingin dilihat
+-pustaka tanpa pengarang- proses mengambil data pustaka tanpa pengarang dari proses sebelumnya
+-pengarang pustaka- proses mengambil data pengarang psutaka dari proses sebelumnya
 # dfd level 2 no 3
 ![level2no3](img/ke-3.jpeg)
 
 # dfd level 2 no 4
 ![level2no4](img/baru.jpeg)
 
-# dfd level 2 no 5
+# dfd level 2 no 5a
 ![level2no5](img/petugas.jpeg)
 
 # kamusdata
