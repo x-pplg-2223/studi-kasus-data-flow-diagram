@@ -84,21 +84,21 @@ Mengelola Pustaka mengenai tentang memasukan Pustaka,mengubah Pustaka ,menghapus
 # DFD Level 2 (Mengelola Pustaka) :
 [![Whats-App-Image-2023-02-13-at-21-01-29.jpg](https://i.postimg.cc/bN0VdT6C/Whats-App-Image-2023-02-13-at-21-01-29.jpg)](https://postimg.cc/0bQ0Bp1D)
 1. Status login memasukan data ke proses memasukan pustaka
-	2. Petugas mengalirkan data pustaka kepada proses memasukan  pustaka 
-	3. Proses memasukan pustaka mengalirkan data  pustaka tanpa pengarang kepada petugas
-	4. Proses memasukan pustaka mengalirkan data pengarang pustaka kepada petugas
-	5. Status login memasukan data ke proses mengubah pustaka
-	6. Petugas mengalirkan data pustaka kepada proses mengubah pustaka
-	7. Proses memasukan pustaka mengalirkan data  pustaka tanpa pengarang kepada petugas
-	8. Proses memasukan pustaka mengalirkan data pengarang pustaka kepada petugas
-	9. Status login mengalirkan data ke menghapus pustaka
-	10. Petugas mengalirkan data pustaka kepada proses menghapus pustaka
-	11. Proses memasukan pustaka  mengalirkan data tanpa pengarang kepada petugas
-	12. Proses memasukan pustaka mengalirkan data pengarang pustaka kepada petugas
-	13. Status login mengalirkan data ke proses melihat pustaka
-	14. Proses mengalirkan pustaka mengalirkan data   pustaka 
-	15. Petugas mengalirkan data petugas tanpa pengarang ke proses melihat pustaka
-	16. Petugas mengalirkan data pengarang pustaka kepada proses  melihat pustaka
+2. Petugas mengalirkan data pustaka kepada proses memasukan  pustaka 
+3. Proses memasukan pustaka mengalirkan data  pustaka tanpa pengarang kepada petugas
+4. Proses memasukan pustaka mengalirkan data pengarang pustaka kepada petugas
+5. Status login memasukan data ke proses mengubah pustaka
+6. Petugas mengalirkan data pustaka kepada proses mengubah pustaka
+7. Proses memasukan pustaka mengalirkan data  pustaka tanpa pengarang kepada petugas
+8. Proses memasukan pustaka mengalirkan data pengarang pustaka kepada petugas
+9. Status login mengalirkan data ke menghapus pustaka
+10. Petugas mengalirkan data pustaka kepada proses menghapus pustaka
+11. Proses memasukan pustaka  mengalirkan data tanpa pengarang kepada petugas
+12. Proses memasukan pustaka mengalirkan data pengarang pustaka kepada petugas
+13. Status login mengalirkan data ke proses melihat pustaka
+14. Proses mengalirkan pustaka mengalirkan data   pustaka 
+15. Petugas mengalirkan data petugas tanpa pengarang ke proses melihat pustaka
+16. Petugas mengalirkan data pengarang pustaka kepada proses  melihat pustaka
 # DFD Level 2 (Mengelola Anggota) :
 [![mengelola-anggota.jpg](https://i.postimg.cc/05WsW9Gd/mengelola-anggota.jpg)](https://postimg.cc/MXQNX2Fv)
 1. status login memasukkan data ke proses anggota,selanjutnya mengalirkan data anggota tanpa telepon ke petugas
