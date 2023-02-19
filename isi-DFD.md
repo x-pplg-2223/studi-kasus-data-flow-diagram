@@ -50,7 +50,7 @@ ___
 ___
 ### KAMUS DATA
 
-! [''](folders/Kamus-data.svg)
+!['KAMUS DATA'](folders/Kamus-data.svg)
 
 <p>
 
