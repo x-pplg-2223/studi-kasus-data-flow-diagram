@@ -144,7 +144,7 @@ Diagram Nazwa
 16. petugas mengalirkan data peminjaman ke proses mencari peminjaman
 
 # mengelola pustaka :
-[![mengelola-pustaka-level2.jpg](https://i.postimg.cc/05wfHrZX/mengelola-pustaka-level2.jpg)](https://postimg.cc/G9bG4LWv)
+[![mengelola-pustaka-level2.jpg](https://i.postimg.cc/ZnBY9jXZ/mengelola-pustaka-level2.jpg)](https://postimg.cc/ctWG27s5)
 Mengelola Pustaka mengenai tentang memasukan Pustaka,mengubah Pustaka ,menghapus Pustaka, dan melihat Pustaka
 1. status login memasukkan data ke pustaka,selanjutnya mengalirkan data pustaka tanpa pengarang ke petugas
 2. pustaka mengalirkan data ke proses memasukan pustaka, selanjutnya mengalirkan data pengarang pustaka ke petugas
