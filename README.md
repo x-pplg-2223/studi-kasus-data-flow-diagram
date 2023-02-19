@@ -23,7 +23,8 @@
 
 # DFD-Level-1
 [![Whats-App-Image-2023-02-13-at-20-26-48.jpg](https://i.postimg.cc/ZqW9nxL8/Whats-App-Image-2023-02-13-at-20-26-48.jpg)](https://postimg.cc/WDPpfrCz)
--anggota/pengunjung perpustakaan melakukan pencarian terhadap daftar pustaka
+
+-Anggota/pengunjung perpustakaan melakukan pencarian terhadap daftar pustaka
 -sistem mencari pustaka menerima data tersebut dan memberikan daftar pustaka kepada pengunjung/anggota
 -mencari pustaka menerima data pengunjung/anggota yang mencari pustaka, kemudian mengirimkan data pustaka kepada petugas 
 -petugas perpustakaan mendapatkan data pustaka, dan memberikan pencarian daftar pustaka kepada mencari pustaka 
@@ -51,6 +52,26 @@
 - sistem kemudian memberikan data anggota kepada petugas
 # DFD-Level-2
 [![Untitled-2.jpg](https://i.postimg.cc/Gthmt9Hy/Untitled-2.jpg)](https://postimg.cc/sQqr0jPj)
+
+MENGELOLA PUSTAKA
+1. pustaka tanpa pengarang mengalirkan data ke mengelola pustaka
+2. mengelola pustaka mengalirkan data pengarang pustaka kepada penyimpanan data pengarang
+3. pengarang pustaka mengalirkan data ke mengelola pustaka 
+3. status login mengngalirkan data ke mengelola pustaka
+4. menglolakan pustaka mengalirkan data pustaka tanpa pengarang kepada penyimpanan data pengarang
+5. petugas mengalirkan data pustaka kepada mengelola pustaka
+6. proses pemeriksaan status login mengalirkan data ststus login kepada mengelola pustaka
+PROSES MENGELOLA PUSTAKA
+1. status login memasukkan data ke pustaka,selanjutnya mengalirkan data pustaka tanpa pengarang ke petugas
+2. pustaka mengalirkan data ke proses memasukan pustaka, selanjutnya mengalirkan data pengarang pustaka ke petugas
+3. status login mengalirkan data ke mengubah pustaka, selanjutnya mengalirkan data pustaka tanpa pengarang ke petugas
+4. pustaka mengalirkan data ke proses mengubah pustaka, selanjutnya mengalirkan data pengarang pustaka ke petugas
+5. status login mengalirkan data ke proses menghapus pustaka, selanjutnya mengalirkan data pustaka tanpa pengarang ke petugas
+6. pustaka mengalirkan data ke proses menghapus pustaka, selanjutnya mengalirkan data pengarang pustaka ke petugas
+7. status login mengalirkan data ke proses melihat pustaka,selanjutnya petugas mengalirkan data pustaka tanpa pengarangke proses melihat pustaka
+8. proses melihat anggota mengalirkan data pustaka ke petugas, selanjutnya data penyimpananpetugas mengalirkan data pustaka pengarang ke proses melihat pustaka
+# DFD-Level-2-Mengelola-Pustaka
+[![Whats-App-Image-2023-02-13-at-21-25-22.jpg](https://i.postimg.cc/kMTsD8LT/Whats-App-Image-2023-02-13-at-21-25-22.jpg)](https://postimg.cc/9zqZn4m9)
 1. Status login memasukan data ke proses memasukan pustaka
 2. Petugas mengalirkan data pustaka kepada proses memasukan  pustaka 
 3. Proses memasukan pustaka mengalirkan data  pustaka tanpa pengarang kepada petugas
@@ -67,25 +88,6 @@
 14. Proses mengalirkan pustaka mengalirkan data   pustaka 
 15. Petugas mengalirkan data petugas tanpa pengarang ke proses melihat pustaka
 16. Petugas mengalirkan data pengarang pustaka kepada proses  melihat pustaka
-# DFD-Level-2-Mengelola-Pustaka
-[![Whats-App-Image-2023-02-13-at-21-25-22.jpg](https://i.postimg.cc/kMTsD8LT/Whats-App-Image-2023-02-13-at-21-25-22.jpg)](https://postimg.cc/9zqZn4m9)
-*MENGELOLA PUSTAKA*
-1. pustaka tanpa pengarang mengalirkan data ke mengelola pustaka
-2. mengelola pustaka mengalirkan data pengarang pustaka kepada penyimpanan data pengarang
-3. pengarang pustaka mengalirkan data ke mengelola pustaka 
-3. status login mengngalirkan data ke mengelola pustaka
-4. menglolakan pustaka mengalirkan data pustaka tanpa pengarang kepada penyimpanan data pengarang
-5. petugas mengalirkan data pustaka kepada mengelola pustaka
-6. proses pemeriksaan status login mengalirkan data ststus login kepada mengelola pustaka
-*PROSES MENGELOLA PUSTAKA*
-1. status login memasukkan data ke pustaka,selanjutnya mengalirkan data pustaka tanpa pengarang ke petugas
-2. pustaka mengalirkan data ke proses memasukan pustaka, selanjutnya mengalirkan data pengarang pustaka ke petugas
-3. status login mengalirkan data ke mengubah pustaka, selanjutnya mengalirkan data pustaka tanpa pengarang ke petugas
-4. pustaka mengalirkan data ke proses mengubah pustaka, selanjutnya mengalirkan data pengarang pustaka ke petugas
-5. status login mengalirkan data ke proses menghapus pustaka, selanjutnya mengalirkan data pustaka tanpa pengarang ke petugas
-6. pustaka mengalirkan data ke proses menghapus pustaka, selanjutnya mengalirkan data pengarang pustaka ke petugas
-7. status login mengalirkan data ke proses melihat pustaka,selanjutnya petugas mengalirkan data pustaka tanpa pengarangke proses melihat pustaka
-8. proses melihat anggota mengalirkan data pustaka ke petugas, selanjutnya data penyimpananpetugas mengalirkan data pustaka pengarang ke proses melihat pustaka
 # DFD-Level-2-Mengelola-Anggota
 [![Whats-App-Image-2023-02-13-at-22-35-27-2.jpg](https://i.postimg.cc/wByYhqp4/Whats-App-Image-2023-02-13-at-22-35-27-2.jpg)](https://postimg.cc/2qDtYf3n)
 1. status login memasukkan data ke proses anggota,selanjutnya mengalirkan data anggota tanpa telepon ke petugas
@@ -131,7 +133,8 @@
 [![Whats-App-Image-2023-02-14-at-10-11-43.jpg](https://i.postimg.cc/PfFnJvYs/Whats-App-Image-2023-02-14-at-10-11-43.jpg)](https://postimg.cc/3WpcbRtn)
 # DFD-Kamus-Data
 [![Whats-App-Image-2023-02-14-at-10-02-42.jpg](https://i.postimg.cc/Gph19F7R/Whats-App-Image-2023-02-14-at-10-02-42.jpg)](https://postimg.cc/0z34Bw1X)
-*Kamus data adalah suatu daftar elemen yang tergonarisir dengan definisi yang tetap dan sesuai dengan sistem dengan user dan analisis sistem yang mempunyai pengertian yang sama tentang input, output, dan komponen.*
+
+Kamus data adalah suatu daftar elemen yang tergonarisir dengan definisi yang tetap dan sesuai dengan sistem dengan user dan analisis sistem yang mempunyai pengertian yang sama tentang input, output, dan komponen.
 
 1. Nama aliran data login pustaka, peminjaman, anggota, petugas Dimana di gunakan proses login (input) Deskripsi data ini merupakan login id password/id "string"Lalu mengakses password 
 2. Dimana proses memeriksa status login maka keluaran (output) Lalu mengelola pustaka (masukan input/output) dan proses mengelola anggota, peminjaman, dan petugas masukan (input) Deskripsi bahwa status login telah sukses sehingga status login menjadi "BOOLEAN"
