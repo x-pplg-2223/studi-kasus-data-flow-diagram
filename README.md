@@ -84,9 +84,20 @@ Penjelasan DFD diatas bisa seperti ini :
 Penjelasan DFD diatas bisa seperti ini :
 <br>
 
+* Di tahap mengelola peminjaman ini ada beberapa proses yaitu memasukan,mengubah,menghapus,melihat,mencari peminjaman di tahap ini petuga bisa memasukkan peminjaman baru setelah login. Contohnya adalah petugas akan mencatat data peminjaman data yang baru dengan isi nama buku,jangka waktu peminjaman , nama anggota yang meminjam dan tanggal peminjaman.
+
+* Lalu di tahap selanjutnya petugas bisa mencari data pinjaman yang sudah selesai pada jangka waktu yang ditentukan dan menghapus riwayat peminjaman tersebut.
+
 #### Ini contoh ( Mengelola Petugas 2.5 ) :
 
 !['DFD.Diagram'](https://d.top4top.io/p_260115jfz1.png)
+<br>
+
+Penjelasan DFD diatas bisa seperti ini :
+
+* Pada tahap mengelola petugas yang bisa mengakses data data petugas yaitu admin/petugas perpustakaan setelah prosedur peminjaman admin mengirimkan daftar nama petugas untuk melayani peminjaman, penginputan tanggal dll.
+
+* Dan admin juga bisa menghapus petugas, mengubah petugas dan juga mencari petugas tentunya hal diatas bisa dilakukan setelah melalui proses pengecekan status login.
  
 ## Kamus data
 
