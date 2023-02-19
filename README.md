@@ -75,18 +75,79 @@ Mendaftarkan Pustaka dengan Pengarang: proses ini memungkinkan petugas perpustak
 Melakukan Pencarian Pustaka dengan Pengarang: proses ini memungkinkan petugas perpustakaan untuk melakukan pencarian data buku dengan pengarang di dalam sistem.
 
 # DFD level 2 (2)
-![level2(2)](img/dfd%20level%202%20(2).jpg)
-
-
-
+![level2(2)](img/dfd%20level%202%20(2).jpg)<br>
+DFD level 2.2 berfokus pada proses pengelolaan pustaka perpustakaan melalui status login dan pustaka. Proses ini terdiri dari beberapa aktivitas, antara lain:
+<br>
+<br>
+-Menambahkan Pustaka:<br> 
+Pada aktivitas ini, petugas perpustakaan dapat menambahkan pustaka baru ke dalam sistem. Informasi yang dimasukkan meliputi judul, pengarang (jika ada), kategori, dan jumlah eksemplar.
+<br>
+-Mengubah Data Pustaka:<br> 
+Petugas perpustakaan dapat mengubah informasi tentang pustaka yang sudah terdaftar dalam sistem. Hal ini bisa dilakukan ketika terjadi kesalahan dalam informasi pustaka atau adanya perubahan informasi terkait pustaka tersebut.
+<br>
+-Menghapus Pustaka:<br> 
+Pada aktivitas ini, petugas perpustakaan dapat menghapus informasi tentang pustaka yang sudah tidak diperlukan dalam sistem.
+<br>
+-Melihat Data Pustaka:<br> 
+Pada aktivitas ini, petugas perpustakaan dapat melihat informasi tentang pustaka yang sudah terdaftar dalam sistem. Informasi yang dapat dilihat meliputi judul, pengarang, kategori.
+<br>
+Proses pengelolaan pustaka di DFD level 2.2 dibagi menjadi dua jenis, yaitu pustaka tanpa pengarang dan pustaka dengan pengarang. Hal ini dilakukan untuk memudahkan proses pengelolaan dan pengecekan informasi pustaka pada sistem. Pustaka tanpa pengarang, seperti majalah atau kamus, hanya memerlukan informasi judul dan kategori saja. Sedangkan untuk pustaka dengan pengarang, seperti novel atau buku teks, memerlukan informasi tambahan berupa pengarang dari pustaka tersebut.
 
 
 # DFD level 2 (3)
-![level2(3)](img/dfd%20level%202%20(3).jpg)
+![level2(3)](img/dfd%20level%202%20(3).jpg)<br>
+DFD level 2.3 ini terfokus pada proses pengelolaan anggota melalui status login dan terdaftar sebagai anggota. Proses ini terdiri dari beberapa aktivitas, antara lain:
+<br>
+<br>
+-Menambahkan Anggota:<br> 
+Pada aktivitas ini, petugas perpustakaan dapat menambahkan informasi anggota baru ke dalam sistem. Informasi anggota yang dimasukkan meliputi nama lengkap, alamat, nomor telepon, dan jenis kelamin.
+<br>
+-Mengubah Data Anggota:<br> 
+Petugas perpustakaan dapat mengubah informasi anggota yang sudah terdaftar di dalam sistem. Hal ini bisa dilakukan ketika terjadi kesalahan dalam informasi anggota atau adanya perubahan informasi terkait anggota tersebut.
+<br>
+-Menghapus Anggota:<br> 
+Pada aktivitas ini, petugas perpustakaan dapat menghapus informasi anggota yang sudah tidak diperlukan dalam sistem.
+<br>
+-Melihat Data Anggota:<br> 
+Pada aktivitas ini, petugas perpustakaan dapat melihat informasi anggota yang sudah terdaftar di dalam sistem. Informasi anggota yang dapat dilihat meliputi nama lengkap, alamat, nomor telepon, jenis kelamin, serta informasi lain terkait anggota tersebut.
+<br>
+Seluruh aktivitas di atas dilakukan melalui status login, di mana hanya petugas perpustakaan yang terdaftar dan masuk ke dalam sistem yang dapat melakukan pengelolaan anggota tersebut. Proses pengelolaan anggota ini dibagi menjadi dua kategori, yaitu anggota tanpa nomor telepon dan anggota dengan nomor telepon.
+
 # DFD level 2 (4)
-![level2(4)](img/dfd%20level%202%20(4).jpg)
+![level2(4)](img/dfd%20level%202%20(4).jpg)<br>
+DFD Level 2.4 pada sistem peminjaman buku di perpustakaan menggambarkan bagaimana proses pengelolaan peminjaman buku dijalankan. Terdapat beberapa kegiatan yang dilakukan dalam pengelolaan peminjaman buku, yaitu memasukkan peminjaman, mengubah peminjaman, menghapus peminjaman, melihat peminjaman, dan mencari peminjaman.
+<br>
+Proses dimulai ketika pengguna yang telah login ke sistem memasukkan data peminjaman buku. Data ini akan dicek terlebih dahulu oleh sistem untuk memastikan bahwa buku yang akan dipinjam tersedia. Jika buku tersedia, maka sistem akan mencatat data peminjaman tersebut dan mengirim notifikasi ke anggota perpustakaan.
+<br>
+Selanjutnya, pengguna dapat melakukan pengubahan, penghapusan, atau pencarian data peminjaman yang telah tercatat di dalam sistem. Sistem akan mengecek terlebih dahulu apakah pengguna yang melakukan akses ke data tersebut adalah pengguna yang memiliki hak akses sesuai dengan aturan yang telah ditetapkan. Jika pengguna memiliki hak akses, maka pengguna dapat melakukan aktivitas yang diinginkan.
+<br>
+Setelah pengguna selesai melakukan aktivitas, sistem akan melakukan penyimpanan data terbaru dan melakukan notifikasi ke pengguna mengenai status peminjaman buku yang telah diubah, dihapus, atau ditemukan. Kemudian petugas bisa mencari data pinjaman yang sudah selesai pada jangka waktu yang sudah ditentukan sesuai tenggat peminjaman buku dan menghapus riwayat peminjaman.
+
 # DFD level 2 (5)
-![level2(5)](img/dfd%20level%202%20(5).jpg)
+![level2(5)](img/dfd%20level%202%20(5).jpg)<br>
+Pada tahap ini adalah penjelasan tentang cara kerja DFD level 2.5 yang mencakup memasukkan petugas, mengubah petugas, menghapus petugas, melihat petugas, dan mencari petugas:
+<br>
+<br>
+Status Login dan Petugas
+Petugas perpustakaan harus login ke dalam sistem untuk mendapatkan akses ke fungsi pengelolaan petugas. Setelah login, sistem akan mengecek apakah petugas tersebut memiliki hak akses untuk mengelola petugas atau tidak. Jika petugas memiliki hak akses, maka sistem akan menampilkan menu pengelolaan petugas.
+<br>
+<br>
+-Memasukkan Petugas<br>
+Petugas perpustakaan dapat memasukkan data petugas baru ke dalam sistem dengan memasukkan informasi seperti nama, alamat, nomor telepon, dan email. Setelah data petugas dimasukkan, sistem akan memvalidasi data dan menyimpan data tersebut ke dalam database.
+<br>
+-Mengubah Petugas<br>
+Petugas perpustakaan dapat mengubah data petugas yang sudah ada dalam sistem, seperti nama, alamat, nomor telepon, dan email. Setelah data diubah, sistem akan memvalidasi perubahan dan memperbarui data petugas dalam database.
+<br>
+-Menghapus Petugas<br>
+Petugas perpustakaan yang lain dapat menghapus data petugas yang sudah ada dalam sistem jika petugas tersebut tidak lagi bekerja di perpustakaan. Setelah data dihapus, sistem akan memvalidasi penghapusan dan menghapus data petugas dari database.
+<br>
+-Melihat Petugas<br>
+Petugas perpustakaan dapat melihat data petugas yang sudah ada dalam sistem. Data petugas yang dapat dilihat meliputi nama, alamat, nomor telepon, dan email.
+<br>
+-Mencari Petugas<br>
+Petugas perpustakaan dapat mencari data petugas yang sudah ada dalam sistem dengan menggunakan fitur pencarian. Fitur ini memungkinkan petugas untuk mencari data petugas berdasarkan kriteria tertentu, seperti nama atau nomor telepon.
+<br>
+DFD level 2.5 ini memberikan gambaran tentang bagaimana sistem peminjaman buku di perpustakaan bekerja dengan lebih rinci, terutama pada tahap mengelola petugas.
 
 # DFD Kamus Data
 ![kamusdata](img/kamus%20dataa.drawio.png)
