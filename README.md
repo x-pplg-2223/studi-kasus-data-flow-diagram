@@ -21,8 +21,49 @@
 16. Mengelola sistem mengirimkan data HASIL PENCARIAN kepada petugas
 17. Dan petugas memberikan data kepada anggota
 # level 1
-[![level1-early.jpg](https://i.postimg.cc/VNyNq8SR/level1-early.jpg)](https://postimg.cc/cvmZWPBg)
+[![level1-early.jpg](https://i.postimg.cc/pdDb940P/level1-early.jpg)](https://postimg.cc/d7tSpHPf)
 
+Anggota/pengunjung perpustakaan melakukan pencarian terhadap daftar pustaka
+2. sistem mencari pustaka menerima data tersebut dan memberikan daftar pustaka kepada pengunjung/anggota
+3. mencari pustaka menerima data pengunjung/anggota yang mencari pustaka, kemudian mengirimkan data pustaka kepada petugas 
+4. petugas perpustakaan mendapatkan data pustaka, dan memberikan pencarian daftar pustaka kepada mencari pustaka 
+5. mengelola pustaka memberikan pustaka tanpa pengarang kepada pustaka
+6. pustaka memberikan data pustaka tanpa pengarang kepada mencari pustaka 
+7. sistem informasi harus memeriksa terlebih dahulu memeriksa situs login dari mengelola pustaka, untuk dapat mengubah data dari mengelola pustaka
+8. jika sudah login, pustaka dapat memberikan beberapa data pustaka tanpa pengarang kepada mengelola pustaka
+9. mengelola pustaka memberi data tersebut kepada pengarang
+10. pengarang memberika data pengarang pustaka kepada mengelola pustaka
+11. mengelola pustaka memberikan data pustaka kepada petugas
+12. petugas menerima data pustaka tersebut dan memproses kepada mencari pustaka lewat pencarian pustaka 
+13. pengarang memasukkan pengarang pustaka kepada mencari pustaka
+14. mencari pustaka memproses data keduanya untuk di berikan kepada anggota/pengunjung
+15. petugas perpustakaan memberikan data pencarian peminjaman kepada mengelola peminjaman 
+16. petugas perpustakaan memberikan data peminjaman yang di pinjam oleh anggota/pengunjung 
+17. sistem informasi harus terlebih dahulu memeriksa status login untuk dapat menjangkau mengelola peminjaman untuk di lakukan peminjaman 
+18. jika sudah status login, mengelola peminjaman menerima dan memberikan data kepada sistem peminjaman
+19. sistem peminjaman menerima data dan memberikan kembali kepada mengelola peminjaman, tanda peminjaman di perbolehkan
+20. kemudian memberikan data peminjaman kepada petugas untuk di berikan kepada mencari pustaka kemudian anggota/pengunjung
+21. petugas melakukan pencarian terhadap data anggota
+22. petugas kemudian memberikan data anggota yang di cari
+23. sistem informasi mengecek status login terlebih dahulu untuk dapat menjangkau sistem mengelola petugas
+24. jika sudah berstatus login, maka sistem mengelola anggota akan memberikan data anggota tanpa telepon kepada anggota
+25. anggota menerima data dan memberikan data anggota tanpa telepon kepada sistem mengelola anggota
+26. mengelola anggota memberikan data telpon anggota kepada telpon
+27. telpon menerima data dan memberikan data telpon anggota ke mengelola anggota 
+28. mengelola anggota menerima data telpon anggota dan memberikan data kepada petugas
+29. petugas melalukan pencarian data petugas lainnya kepada mengelola tugas
+30. petugas memberika data anggota yang di cari
+31. sistem memeriksa status login dari petugas perpustakaan 
+32. jika sudah berstatus login, mengelola petugas akan mencari data petugas kepada petugas
+33. petugas memberikan data petugas yang di cari
+34. kemudian mengelola petugas menerima data dan memberikannya kepada petugas perpustakaan 
+35. petugas perpustakaan melakukan login 
+36. sistem login menerima data login petugas perpustakaan
+37. sistem petugas menerima login petugas perpustakaan
+38. sistem login kemudian memberikan pesan login/logout kepada petugas perpustakaan
+39. jika login terdapat, berarti petugas bisa menjalankan tugasnya
+40. jika logout maka petugas harus login kembali.postimg.cc/VNyNq8SR/level1-early.jpg)](https://postimg.cc/cvmZWPBg)
+ 
 # dfd level 2
 [![Whats-App-Image-2023-02-14-at-10-37-12.jpg](https://i.postimg.cc/qMGnpvcL/Whats-App-Image-2023-02-14-at-10-37-12.jpg)](https://postimg.cc/crr6mZbg)
 
@@ -107,8 +148,8 @@ Mengelola Pustaka mengenai tentang memasukan Pustaka,mengubah Pustaka ,menghapus
 # level mengelola petugas
 [![DFD-Level-2-5.jpg](https://i.postimg.cc/02MMDZW9/DFD-Level-2-5.jpg)](https://postimg.cc/zVNG1wYQ)
 
-1. Status  login memasukan data ke proses memasukan petugas 
-2. data petugas mengalirkan data petugas ke proses memasukan petugas
+    1. Status  login memasukan data ke proses memasukan petugas 
+    2. data petugas mengalirkan data petugas ke proses memasukan petugas
 	3 proses memasukan petugas mengalirkan data petugas kepada petugas
 	
 	1 status login memasukan data ke proses mengubah petugas
