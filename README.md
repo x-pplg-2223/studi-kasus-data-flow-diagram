@@ -173,6 +173,7 @@ Mengelola Pustaka mengenai tentang memasukan Pustaka,mengubah Pustaka ,menghapus
 
 # Kamus Data
 ![kamusdata](img/Kamusdata.jpeg)
+
 Kamus data adalah suatu daftar elemen yang tergonarisir dengan definisi yang tetap dan sesuai dengan sistem dengan user dan analisis sistem yang mempunyai pengertian yang sama tentang input, output, dan komponen.
 
 1. Nama aliran data login pustaka, peminjaman, anggota, petugas Dimana di gunakan proses login (input) Deskripsi data ini merupakan login id password/id "string"Lalu mengakses password 
