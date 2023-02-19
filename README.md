@@ -10,65 +10,52 @@
 !['DFD.Diagram'](https://g.top4top.io/p_2600t208c1.png)
 <br>
 
-[Anggota/Pengunjung perpustakaan]
-<br>
-Pengunjung yang ingin meminjam dari perpustakaan 
-<br>
+Penjelasan pada DFD diatas bisa seperti ini
+<br> 
+ 
+Bisa di lihat di atas gambar berikut di dfd level 0 mempunyai sebuah sistem yaitu sistem mengelola informasi manajemen perpustakaan di gambar tersebut ada dua entitas/aktor yang terlibat yaitu ada anggota perpustakaan dan petugas perpustakaan.
 
-(Sistem Informasi Manajemen Perpustakaan Administrasi)
-<br>
-Sebuah sistem untuk mengelola permintaan pengunjung dan memenuhi permintaan pengunjung yang diperoleh dari Petugas/admin 
-<br>
-
-[Petugas Perpustakaan] 
-<br>
-Petugas/admin yang memenuhi permintaan pengunjung yang diperoleh dari sistem manajemen aliran data>>
-- Pencarian Perpustakaan - Anggota/Pengunjung melakukan pencarian perpustakaan di sistem informasi.
-- Login - Petugas/admin melakukan login ke sistem informasi.
-- Pesan login/logout - Sistem informasi memberikan notifikasi/pesan kepada petugas.
-- Pencarian Pustaka - Petugas mengirimkan pencarian perpustakaan ke sistem informasi.
-- Pustaka - Sistem Informasi menyediakan perpustakaan untuk petugas perpustakaan.
-- Pustaka - Petugas menyediakan sistem informasi dengan perpustakaan yang dicari pengunjung.
-- Cari Anggota - Petugas mencari anggota di database informasi sistem.
-- Anggota - Sistem informasi memberikan data keanggotaan kepada Petugas/admin.
-- Anggota - Petugas/admin menyediakan anggota dengan akses ke sistem informasi.
-- Pencarian Peminjaman - Petugas/admin mencari sistem informasi untuk peminjaman.
-- Peminjaman - Petugas/admin melakukan peminjamaan pada sistem infomasi.
-- Peminjaman - Sistem infomasi memberikan hak peminjaman kepada petugas/admin.
-- Pencarian Petugas - Petugas sedang mencari data petugas.
-- Petugas/admin -  Petugas/admin memberikan akses untuk pustaka.
-- Petugas/admin -  Sistem infomasi memberikan konfirmasi kepada petugas/admin.
-- Pustaka - Sistem menyediakan perpustakaan untuk anggota/pengunjung perpustakaan.
-
-<br>
+pada tahap awal pengunjung akan mencari sebuah buku kemudian diterima sistem dan dikirim ke petugas perpustakaan,karena pengunjung tersebut belum login(login tersebut berguna untuk mendapatkan privillage anggota perpustakaan), maka petugas akan mengirim pesan login ke pengunjung tersebut, saat sudah login kemudian pesan login tersebut terkirim ke petugas perpustakaan. dan pengunjung kembali ke halaman awal untuk mencari buku.anggota mencari buku ke sistem(buku mtk),kemudian pencarian tersebut diterima oleh petugas dan petugas mengirimkan list buku(mtk) dan anggota memilih buku yang di inginkan kemudian petugas mencari anggota yang menginginkan buku(mtk) tersebut, lalu petugas mengirimkan data buku ke sistem dan sistem mengirimkan datanya ke anggota.
 
 ## DFD level 1
 ### Ini contoh level 1 :
 
 !['DFD.Diagram'](https://a.top4top.io/p_26009aun31.png)
+<br>
+
+Penjelasan dari DFD diatas bisa seperti ini :
+<br>
+
+* DFD di atas adalah penggambaran proses yang dilakukan oleh sistem untuk petugas dan anggota, proses didalamnya meliputi mengelola pustaka, mengelola peminjaman, melakukan mengelola anggota, petugas dan data, dan data login dan logout, melakukan pemeriksaaan status login
+
+* Disini adalah tahapan anggota mencari pustaka dan peminjaman buku, ditahap pertama ini sistem mencari pustaka akan meminta data pustaka kepada petugas perpustakaan, dan ditahap ini petugas perpustakaan akan mengirimkan beberada data kepada mengelola pustaka, jika anggota mencari pustaka tanpa pengarang maka akan data tersebut akan dikirim kedalam storage pustaka, dan pustaka tanpa pengarang langsung kembali kesistem utama. dan jika anggota mencari pustaka berupa pengarang, makan sistem akan mengirimkan kepada storage pengarang dan pencarian baru akan dikirimkan ke sistem utama. tahap selanjutnya adalah petugas perpustakaan sistem mengirimkan data berupa login petugas yang kemudian memasukan data data petugas dan memeriksa status loginnya lalu tahap kemudian sistem memeriksa status login pada mengelola anggota yang akan meminjam buku pada perpustakaan dengan mengambil data anggota telepon di storage telepon dan lalu dikirimkan kembali ke mengelola petugas dan kemudian dikirimkan kepada sistem utama dan lalu terakhir kepada anggota.
 
 <br>
 
 ## DFD level 2
-### Ada beberapa contoh lebih banyak di level 2.
 
-#### Ini contoh ( Mengelola Pustaka 1 ) :
+#### Ini contoh ( Mengelola Pustaka 2.1 ) :
+Penjelasan pada DFD diatas bisa seperti ini :
+<br>
+
+* Tahapan ini adalah tahapan untuk previlege petugas, di tahap ini data yang akan masuk seperti buku pustaka tanpa pengarang dan buku terdapat pengarang pusta pada mengelola pustaka akan bisa diubah dengan previlege yang khusus petugas, seperti Memasukan pustaka, Mengubah pustaka, Menghapus pustaka dan terlebih melewati dengan pengecekan status login agar dapat melakukan hal tersebut. lalu data terakhir tersebut bisa dikembalikan ke sistem lainnya.
+* Tahap ini bisa diakses oleh privilege yang dimiliki anggota yaitu dengan melihat pustaka dengan melewati fase status login dan pustaka tanpa pengarang dan pengarang pustaka pada laman melihat pustaka.
 
 !['DFD.Diagram'](https://l.top4top.io/p_2601g1wox1.png)
 
-#### Ini contoh ( Mengelola Pustaka 2 ) :
+#### Ini contoh ( Mengelola Pustaka 2.2 ) :
 
 !['DFD.Diagram'](https://l.top4top.io/p_2601esh4o1.png)
 
-#### Ini contoh ( Mengelola Anggota ) :
+#### Ini contoh ( Mengelola Anggota 2.3 ) :
 
 !['DFD.Diagram'](https://k.top4top.io/p_2601w1cvk1.png)
 
-#### Ini contoh ( Mengelola Peminjaman ) :
+#### Ini contoh ( Mengelola Peminjaman 2.4 ) :
 
 !['DFD.Diagram'](https://k.top4top.io/p_26016zyvp1.png)
 
-#### Ini contoh ( Mengelola Petugas ) :
+#### Ini contoh ( Mengelola Petugas 2.5 ) :
 
 !['DFD.Diagram'](https://d.top4top.io/p_260115jfz1.png)
  
