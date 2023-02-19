@@ -1,0 +1,1 @@
+[![kamusdatareal.png](https://i.postimg.cc/FsLMrj3z/kamusdatareal.png)](https://postimg.cc/TpT7Q5kv)
