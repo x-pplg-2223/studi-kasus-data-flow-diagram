@@ -54,10 +54,11 @@ penjelasan berbagai komponen pada DFD diatas adalah sebagai berikut:
 ___
 ### KAMUS DATA
 
-!['KAMUS DATA'](folders/Kamus-data.svg)
-
 <p>
-
+ <img src="folders/Kamus-data.svg">
+ <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c9059146481375.58a1e1be663fe.gif" width="310px">
+</p>
+ 
+<p>
   <img width="100%" src="https://media.tenor.com/HNbyn212-1wAAAAC/love-true-love.gif">
-
 </p>
