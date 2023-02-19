@@ -33,26 +33,26 @@ aliran data >><br>
 
 # dfd level 2 no 2
 ![level2no2](img/ke-2.jpeg)
-Proses Memasukkan pustaka:
--status login- proses mengambil dan mengecek data status login dari proses sebelumnya
--pustaka- proses mengambil data pustaka yang ingin dimasukkan
--pustaka tanpa pengarang- proses memberikan data data pustaka tanpa pengarang ke proses selanjutnya
--pengarang pustaka- proses memeberikan data data pengarang pustaka untuk proses selanjutnya
-Proses Mengubah pustaka:
--status login: proses mengambil dan mengecek data status login dari data sebelumnya
--pustaka- proses mengambil data pustaka yang ingin diubah
--pustaka tanpa pengarang- proses memberikan data data pustaka tanpa pengarang ke proses selanjutnya
--pengarang pustaka- proses memberikan data data pengarang pustaka untuk proses selanjutnya
-Proses Menghapus pustaka:
--status login- proses mengambil dan mengecek data status login dari proses sebelumnya
--pustaka- proses mengambil data pustaka yang ingin dihapus
--pustaka tanpa pengarang- proses memberikan data data pustaka tanpa pengarang ke proses selanjutnya
--pengarang pustaka- proses memberikan data data pengarang pustaka untuk proses selanjutnya
-Proses Melihat pustaka:
--status login- proses mengambil dan mengecek data status login dari proses sebelumnya
--pustaka- proses memberikan data pustaka yang ingin dilihat
--pustaka tanpa pengarang- proses mengambil data pustaka tanpa pengarang dari proses sebelumnya
--pengarang pustaka- proses mengambil data pengarang psutaka dari proses sebelumnya
+Proses Memasukkan pustaka:<br>
+-status login- proses mengambil dan mengecek data status login dari proses sebelumnya<br>
+-pustaka- proses mengambil data pustaka yang ingin dimasukkan<br>
+-pustaka tanpa pengarang- proses memberikan data data pustaka tanpa pengarang ke proses selanjutnya<br>
+-pengarang pustaka- proses memeberikan data data pengarang pustaka untuk proses selanjutnya<br>
+Proses Mengubah pustaka:<br>
+-status login: proses mengambil dan mengecek data status login dari data sebelumnya<br>
+-pustaka- proses mengambil data pustaka yang ingin diubah<br>
+-pustaka tanpa pengarang- proses memberikan data data pustaka tanpa pengarang ke proses selanjutnya<br>
+-pengarang pustaka- proses memberikan data data pengarang pustaka untuk proses selanjutnya<br>
+Proses Menghapus pustaka:<br>
+-status login- proses mengambil dan mengecek data status login dari proses sebelumnya<br>
+-pustaka- proses mengambil data pustaka yang ingin dihapus<br>
+-pustaka tanpa pengarang- proses memberikan data data pustaka tanpa pengarang ke proses selanjutnya<br>
+-pengarang pustaka- proses memberikan data data pengarang pustaka untuk proses selanjutnya<br>
+Proses Melihat pustaka:<br>
+-status login- proses mengambil dan mengecek data status login dari proses sebelumnya<br>
+-pustaka- proses memberikan data pustaka yang ingin dilihat<br>
+-pustaka tanpa pengarang- proses mengambil data pustaka tanpa pengarang dari proses sebelumnya<br>
+-pengarang pustaka- proses mengambil data pengarang psutaka dari proses sebelumnya<br>
 # dfd level 2 no 3
 ![level2no3](img/ke-3.jpeg)
 
