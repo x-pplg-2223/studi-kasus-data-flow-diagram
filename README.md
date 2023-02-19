@@ -17,7 +17,7 @@ Aliran data dikirim dari entitas petugas yang masuk ke dalam sistem  Informasi M
 -data pencarian buku untuk proses pencarian dan pengelolaan buku<br>
 -data peminjaman untuk proses pencarian dan pengelolaan data peminjaman<br>
 -data anggota untuk proses pencarian dan pengelolaan data anggota<br>
--data petugas untuk proses pencarian dan pengelolaan data petugas.<br>
+-data petugas untuk proses pencarian dan pengelolaan data petugas.
 <br>
 <br>
 Dari masukan yang diterima oleh sistem, selanjutnya aliran data yang keluar dari sistem Informasi Manajemen Perpustakaan ke petugas adalah:<br>
@@ -25,7 +25,7 @@ Dari masukan yang diterima oleh sistem, selanjutnya aliran data yang keluar dari
 -data buku dari proses pencarian dan pengelolaan buku<br>
 -data peminjaman dari proses pencarian dan pengelolaan data peminjaman<br>
 -data anggota dari proses pencarian dan pengelolaan data anggota<br>
--data petugas dari proses pencarian dan pengelolaan data petugas.<br>
+-data petugas dari proses pencarian dan pengelolaan data petugas.
 
 # DFD level 1
 ![level1](img/studi-kasus-DFD1.jpg)
