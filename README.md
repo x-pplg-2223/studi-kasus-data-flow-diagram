@@ -47,5 +47,5 @@ status login dan petugas ke sistem memasukkan petugas dan ke aliran data petugas
 status login dan petugas ke sistem mengubah petugas dan ke aliran data petugas
 status login dan petugas ke sistem menghapus petugas dan ke aliran data petugas
 pencarian petugas ke sistem melihat petugas dan dari aliran data petugas menuju aliran data petugas
-# kamus data
+# kamus data 1
 [![KAMUS-DATA.png](https://i.postimg.cc/7hS8XLSB/KAMUS-DATA.png)](https://postimg.cc/hQ45tcyx)
