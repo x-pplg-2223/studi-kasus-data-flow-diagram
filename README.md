@@ -86,6 +86,22 @@ Proses Mencari anggota:<br>
 
 # dfd level 2 no 4
 ![level2no4](img/baru.jpeg)
+<br>Proses Memasukkan peminjaman:<br>
+-status login- proses mengambil dan mengecek data status login dari data sebelumnya<br>
+-peminjaman- proses mengambil dan mengirim data peminjaman yang ingin dimasukkan<br>
+Proses Mengubah peminjaman:<br>
+-status login- proses mengambil dan mengecek data status login dari data sebelumnya<br>
+-peminjaman- proses mengambil dan mengirim data peminjaman yang ingin diubah<br>
+Proses Menghapus peminjaman:<br>
+-status login- proses mengambil dan mengecek data status login dari data sebelumnya<br>
+-peminjaman- proses mengambil dan mengirim data peminjaman yang ingin dihapus<br>
+Proses Melihat peminjaman:<br>
+-status login- proses mengambil dan mengecek data status login dari data sebelumnya<br>
+-pemijaman- proses mengambil dan mengirim data peminjaman yang ingin dilihat<br>
+Proses Mencari peminjaman:<br>
+-status login- proses mengambil dan mengecek data status login dari data sebelumnya<br>
+-pencarian peminjaman- proses mengambil data peminjaman yang di cari<br>
+-pemijaman- proses mengambil dan mengirim data peminjaman yang di cari<br>
 
 # dfd level 2 no 5a
 ![level2no5](img/petugas.jpeg)
