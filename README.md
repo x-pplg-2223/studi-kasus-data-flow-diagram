@@ -80,3 +80,9 @@
 4. petugas mengalirkan data petugas ke proses mencari petugas
 # KAMUS DATA
 [![KAMUSDATA.png](https://i.postimg.cc/1zvv0gJr/KAMUSDATA.png)](https://postimg.cc/gw6ym09x)
+Kamus data adalah suatu daftar elemen yang tergonarisir dengan definisi yang tetap dan sesuai dengan sistem dengan user dan analisis sistem yang mempunyai pengertian yang sama tentang input, output, dan komponen.
+
+1. Nama aliran data login pustaka, peminjaman, anggota, petugas Dimana di gunakan proses login (input) Deskripsi data ini merupakan login id password/id "string"Lalu mengakses password 
+2. Dimana proses memeriksa status login maka keluaran (output)
+
+Lalu mengelola pustaka (masukan input/output) dan proses mengelola anggota, peminjaman, dan petugas masukan (input) Deskripsi bahwa status login telah sukses sehingga status login menjadi "BOOLEAN"
