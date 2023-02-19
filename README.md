@@ -66,7 +66,7 @@ Diagram Nazwa
 40. jika logout maka petugas harus login kembali
 
 # level 2 :
-[![pustaka.jpg](https://i.postimg.cc/kgtKDSSx/pustaka.jpg)](https://postimg.cc/dhwLxL41)
+[![pustaka.jpg](https://i.postimg.cc/4d8nHYdv/pustaka.jpg)](https://postimg.cc/G8ybZhv9)
 1. pustaka tanpa pengarang mengalirkan data ke mengelola pustaka
 2. mengelola pustaka mengalirkan data pengarang pustaka kepada penyimpanan data pengarang
 3. pengarang pustaka mengalirkan data ke mengelola pustaka 
