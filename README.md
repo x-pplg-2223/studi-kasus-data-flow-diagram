@@ -134,7 +134,6 @@ Mengelola Pustaka mengenai tentang memasukan Pustaka,mengubah Pustaka ,menghapus
 16. petugas mengalirkan data peminjaman ke proses mencari peminjaman
 # DFD-Level-2-petugas
 [![level2-mengelolapetugas-1.png](https://i.postimg.cc/LshhnCVk/level2-mengelolapetugas-1.png)]
-(https://postimg.cc/kV37HyzD)
 1. Status  login memasukan data ke proses memasukan petugas 
 2. data petugas mengalirkan data petugas ke proses memasukan petugas
 3. proses memasukan petugas mengalirkan data petugas kepada petugas
