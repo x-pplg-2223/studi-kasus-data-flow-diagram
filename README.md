@@ -33,13 +33,48 @@ di gambar tersebut ada dua entitas/aktor yang terlibat yaitu ada anggota perpust
 
 # DFD-Level-2 :
 [![Diagram-lv2-new.png](https://i.postimg.cc/kM0fBks5/Diagram-lv2-new.png)](https://postimg.cc/RqTcYpjr)
+
+### Penjelasan DFD level 2
+- pada tahap ini merupakan tahapan dimana ada sebuah proses besar (mengelola pustaka) dimana didalamnya terdapat proses yang lebih kecil yaitu proses memasukan pustaka,mengubah pustaka , menghapus pustaka dan melihat pustaka di proses mengelola pustaka terdapat inputan pustaka tanpa pengarang, pengarang pustaka dan pustaka kemudian juga ada output pustaka tanpa pangarang ,pengarang pustaka dan pustaka. di dalam proses mengelola pustaka juga ada pengeceka status login. 
+
+- di proses memasukan pustaka,mengubah pustaka dan menghapus pustaka yang mendapat akses hanyalah admin/petugas
+perpustakaan sebelum mengubah,menghapus,memasukan,petugas perlu mengecek status login terlebih dahulu setelah di ubah atau di hapus data tersebut bisa dikembalikan ke sistem utama atau sistem lainnya
+
+- di proses melihat pustaka itu bisa diakses oleh petugas maupun anggota dengan melewati pengecekan status login baru bisa melihat data pustaka ytanpa pengarang dan data pengarang pustaka.
+
 # DFD-Level-2-Pustaka :
 [![Diagram-lv-2-Mengelola-Pustaka-new.png](https://i.postimg.cc/L8mzY5zR/Diagram-lv-2-Mengelola-Pustaka-new.png)](https://postimg.cc/Ln0qGHC0)
+
+### Penjelasan DFD level 2 Mengelola Pustaka
+- pada tahapan ini terdapat 2 entitas yang dapat mengakses kedalam proses tsb yaitu petugas perpustakaan dan anggota
+
+- pada tahapan memasukan,mengubah,menghapus pustaka hanya petugas yang memiliki akses tersebut tentunya setelah melewati pengecekan status login.
+dan untuk melihat dan mencari pustaka kedua entitas tsb dapat mengaksesnya tentunya setelah melewati proses login dan verivikasi.
+
+
 # DFD-Level-2-Mengelola-Anggota :
 [![Diagram-lv2-Mengelola-Anggota-new.png](https://i.postimg.cc/bJ2V58gK/Diagram-lv2-Mengelola-Anggota-new.png)](https://postimg.cc/wygktCSV)
+
+### Penjelasan DFD level 2 Mengelola Anggota 
+- tahapan mengelola anggota seperti memasukan,mengubah,menghapus dan mencari anggota hanya petugas yang diberikan akses di tahap ini kita bisa mendapatkan beberapa informasi dari database anggota
+
+- di tahap ini petugas bisa mencarikan data informasi anggota dengan melihat status anggota di sistem lalu petugas mencari pada laman anggota tanpa telepon jika data yang ingin dicari terdapat didalam pada sistem data anggota tanpa telepon.
+
 # DFD-Level-2-Mengelola-Peminjaman :
 [![Diagram-Mengelola-Peminjaman-new.png](https://i.postimg.cc/4yx7d400/Diagram-Mengelola-Peminjaman-new.png)](https://postimg.cc/R62Vpm41)
+
+### Penjelasan DFD level 2 Mengelola Peminjaman
+- di tahap mengelola peminjaman ini ada beberapa proses yaitu memasukan,mengubah,menghapus,melihat,mencari peminjaman di tahap ini petuga bisa memasukkan peminjaman baru setelah login. contohnya adalah petugas akan mencatat data peminjaman data yang baru dengan isi nama buku,jangka waktu peminjaman , nama anggota yang meminjam dan tanggal peminjaman.
+
+- lalu di tahap selanjutnya petugas bisa mencari data pinjaman yang sudah selesai pada jangka waktu yang ditentukan dan menghapus riwayat peminjaman tersebut.
+
 # DFD-Level-2-Mengelola-petugas :
 [![Diagram-Mengelola-Petugas-new.png](https://i.postimg.cc/GtR0JHRM/Diagram-Mengelola-Petugas-new.png)](https://postimg.cc/YGdyt2hg)
+
+### Penjelasan DFD level 2 Mengelola Petugas
+- pada tahap mengelola petugas yang bisa mengakses data data petugas yaitu admin/petugas perpustakaan setelah prosedur peminjaman admin mengirimkan daftar nama petugas untuk melayani peminjaman, penginputan tgl dll 
+
+- dan admin juga bisa menghapus petugas ,mengubah petugas dan juga mencari petugas tentunya hal diatas bisa dilakukan setelah melalui proses pengecekan status login.
+
 # DFD-Kamus-Data :
 [![Diagram-Kamus-Data-new.png](https://i.postimg.cc/nLpvJ200/Diagram-Kamus-Data-new.png)](https://postimg.cc/ZWs9P8kd)
