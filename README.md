@@ -117,9 +117,12 @@ Seluruh aktivitas di atas dilakukan melalui status login, di mana hanya petugas 
 ![level2(4)](img/dfd%20level%202%20(4).jpg)<br>
 DFD Level 2.4 pada sistem peminjaman buku di perpustakaan menggambarkan bagaimana proses pengelolaan peminjaman buku dijalankan. Terdapat beberapa kegiatan yang dilakukan dalam pengelolaan peminjaman buku, yaitu memasukkan peminjaman, mengubah peminjaman, menghapus peminjaman, melihat peminjaman, dan mencari peminjaman.
 <br>
+<br>
 Proses dimulai ketika pengguna yang telah login ke sistem memasukkan data peminjaman buku. Data ini akan dicek terlebih dahulu oleh sistem untuk memastikan bahwa buku yang akan dipinjam tersedia. Jika buku tersedia, maka sistem akan mencatat data peminjaman tersebut dan mengirim notifikasi ke anggota perpustakaan.
 <br>
+<br>
 Selanjutnya, pengguna dapat melakukan pengubahan, penghapusan, atau pencarian data peminjaman yang telah tercatat di dalam sistem. Sistem akan mengecek terlebih dahulu apakah pengguna yang melakukan akses ke data tersebut adalah pengguna yang memiliki hak akses sesuai dengan aturan yang telah ditetapkan. Jika pengguna memiliki hak akses, maka pengguna dapat melakukan aktivitas yang diinginkan.
+<br>
 <br>
 Setelah pengguna selesai melakukan aktivitas, sistem akan melakukan penyimpanan data terbaru dan melakukan notifikasi ke pengguna mengenai status peminjaman buku yang telah diubah, dihapus, atau ditemukan. Kemudian petugas bisa mencari data pinjaman yang sudah selesai pada jangka waktu yang sudah ditentukan sesuai tenggat peminjaman buku dan menghapus riwayat peminjaman.
 
