@@ -24,11 +24,11 @@
 # DFD-Level-1
 [![Whats-App-Image-2023-02-13-at-20-26-48.jpg](https://i.postimg.cc/ZqW9nxL8/Whats-App-Image-2023-02-13-at-20-26-48.jpg)](https://postimg.cc/WDPpfrCz)
 
--Anggota/pengunjung perpustakaan melakukan pencarian terhadap daftar pustaka
--sistem mencari pustaka menerima data tersebut dan memberikan daftar pustaka kepada pengunjung/anggota
--mencari pustaka menerima data pengunjung/anggota yang mencari pustaka, kemudian mengirimkan data pustaka kepada petugas 
--petugas perpustakaan mendapatkan data pustaka, dan memberikan pencarian daftar pustaka kepada mencari pustaka 
--mengelola pustaka memberikan pustaka tanpa pengarang kepada pustaka
+- Anggota/pengunjung perpustakaan melakukan pencarian terhadap daftar pustaka
+- sistem mencari pustaka menerima data tersebut dan memberikan daftar pustaka kepada pengunjung/anggota
+- mencari pustaka menerima data pengunjung/anggota yang mencari pustaka, kemudian mengirimkan data pustaka kepada petugas 
+- petugas perpustakaan mendapatkan data pustaka, dan memberikan pencarian daftar pustaka kepada mencari pustaka 
+- mengelola pustaka memberikan pustaka tanpa pengarang kepada pustaka
 - pustaka memberikan data pustaka tanpa pengarang kepada mencari pustaka 
 - sistem informasi harus memeriksa terlebih dahulu memeriksa situs login dari mengelola pustaka, untuk dapat mengubah data dari mengelola pustaka
 - jika sudah login, pustaka dapat memberikan beberapa data pustaka tanpa pengarang kepada mengelola pustaka
@@ -61,6 +61,7 @@ MENGELOLA PUSTAKA
 4. menglolakan pustaka mengalirkan data pustaka tanpa pengarang kepada penyimpanan data pengarang
 5. petugas mengalirkan data pustaka kepada mengelola pustaka
 6. proses pemeriksaan status login mengalirkan data ststus login kepada mengelola pustaka
+
 PROSES MENGELOLA PUSTAKA
 1. status login memasukkan data ke pustaka,selanjutnya mengalirkan data pustaka tanpa pengarang ke petugas
 2. pustaka mengalirkan data ke proses memasukan pustaka, selanjutnya mengalirkan data pengarang pustaka ke petugas
@@ -131,6 +132,22 @@ PROSES MENGELOLA PUSTAKA
 16. petugas mengalirkan data petugas ke   proses mencari petugas
 # DFD-Level-2-Mengelola-Peminjaman
 [![Whats-App-Image-2023-02-14-at-10-11-43.jpg](https://i.postimg.cc/PfFnJvYs/Whats-App-Image-2023-02-14-at-10-11-43.jpg)](https://postimg.cc/3WpcbRtn)
+1. status login memasukan data ke proses memasukkan peminjaman
+2. data peminjaman mengalirkan data peminjaman ke proses memasukkan peminjaman
+3. proses memasukkan peminjaman mengalirkan data peminjaman kepada petugas
+4. status login memasukkan data ke proses mengubah peminjaman
+5. data peminjaman mengalirkan data peminjaman ke proses mengubah peminjaman
+6. proses mengubah peminjaman mengalirkan data peminjaman kepada petugas
+7. status login memasukkan data ke proses menghapus peminjaman
+8. data peminjaman mengalirkan data peminjaman ke proses menghapus pemijaman
+9. proses menghapus peminjaman mengalirkan data peminjaman kepada petugas
+10. status login memasukkan data ke proses melihat peminjaman
+11. proses mengalirkan data peminjaman ke penyimpanan data peminjaman
+12. petugas mengalirkan data peminjaman ke proses melihat peminjaman
+13. status login memasukkan data ke proses mencari peminjaman
+14. peminjaman mengalirkan data pencarian peminjaman ke mencari peminjaman
+15. proses mengalirkan data peminjaman ke penyimpanan data peminjaman
+16. petugas mengalirkan data peminjaman ke proses mencari peminjaman
 # DFD-Kamus-Data
 [![Whats-App-Image-2023-02-14-at-10-02-42.jpg](https://i.postimg.cc/Gph19F7R/Whats-App-Image-2023-02-14-at-10-02-42.jpg)](https://postimg.cc/0z34Bw1X)
 
