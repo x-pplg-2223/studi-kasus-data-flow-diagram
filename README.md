@@ -46,7 +46,3 @@ penjelasan dfd level 2 - mengelola petugas :
 
 # DFD-Kamus-Data
 [![Whats-App-Image-2023-02-14-at-10-11-31.jpg](https://i.postimg.cc/ncZwGv7Q/Whats-App-Image-2023-02-14-at-10-11-31.jpg)](https://postimg.cc/pyGZ25s2)
-penjelasan kamus data : 
-- 1. nama digunakan untuk proses login
-- 2. nama status login digunakan untuk proses memeriksa status login, proses mengelola pustaka, proses mengelola anggota, proses mengelola peminjaman, proses mengelola petugas.
-- status login ya/tidak.
