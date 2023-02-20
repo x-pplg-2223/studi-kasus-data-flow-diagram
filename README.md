@@ -5,8 +5,8 @@
 # Level0
 [![level0](img/level0.png)
 
-Terdapat 2 Aktor yang terlibat yaitu;
- [Anggota/Pengunjung perpustakaan]<br>
+<i>Terdapat 2 Aktor yang terlibat yaitu;
+ [Anggota/Pengunjung perpustakaan]<br>
  Anggota/Pengunjung Perpustakaan adalah Seorang Anggota atau pengunjung yang ingin meminjam ke perpustakaan.<br> 
  [Petugas Perpustakaan]<br>
  Petugas Perpustakaan adalah seorang petugas yang memenuhi permintaan/pinjaman dari pengunjung yang sudah di proses dan sudah mendapat izin dari sistem yang mengelola informasi manajemen perpustakaan.<br> 
@@ -24,11 +24,11 @@ Terdapat 2 Aktor yang terlibat yaitu;
  •Petugas perpustakaan memberikan akses untuk anggota/pengunjung;<br> 
  •Petugas perpustakaan melakukan pencarian peminjaman di sistem informasi;<br> 
  •Petugas perpustakaan memberikan formulir peminjaman pada sistem informasi untuk diisi tanggal,buku yg dipinjam,dll;<br> 
- •Lalu sistem memberikan data peminjaman tersebut ke petugas perpustakaan;<br> 
+ •Lalu sistem memberikan data peminjaman tersebut ke petugas perpustakaan;<br> 
  •Selanjutnya tahap mencari data petugas yang akan melayani peminjaman tersebut;<br> 
  •Petugas memberikan akses untuk memberikan buku yang akan dipinjam;<br> 
  •Sistem informasi memberikan konfirmasi pada petugas perpustakaan;<br> 
- •Sistem memberikan data pustaka pada anggota/pengunjung perpustakaan;<br>
+ •Sistem memberikan data pustaka pada anggota/pengunjung perpustakaan;<br></i>
 # level1
 [![level1](img/level1.png)
 
