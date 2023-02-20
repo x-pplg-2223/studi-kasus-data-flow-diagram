@@ -89,7 +89,7 @@ MENGELOLA PUSTAKA
 16. petugas mengalirkan data peminjaman ke proses mencari peminjaman
 # DFD level 2 no 5
 ![level2no5](img/level2no5.jpg)
-[18.05, 19/2/2023] Jm_02: 1. Status  login memasukan data ke proses memasukan petugas 
+ 1. Status  login memasukan data ke proses memasukan petugas 
     2. data petugas mengalirkan data petugas ke proses memasukan petugas
 	3 proses memasukan petugas mengalirkan data petugas kepada petugas
 	
@@ -109,7 +109,7 @@ MENGELOLA PUSTAKA
 	2 petugas mengalirkan data pencarian petugas ke mencari petugas
 	3 proses mengalirkan data petugas ke  penyimpanan data petugas
 	4 petugas mengalirkan data petugas ke   proses mencari petugas
-[18.05, 19/2/2023] Jm_02: -anggota/pengunjung perpustakaan melakukan pencarian terhadap daftar pustaka
+ -anggota/pengunjung perpustakaan melakukan pencarian terhadap daftar pustaka
 -sistem mencari pustaka menerima data tersebut dan memberikan daftar pustaka kepada pengunjung/anggota
 -mencari pustaka menerima data pengunjung/anggota yang mencari pustaka, kemudian mengirimkan data pustaka kepada petugas 
 -petugas perpustakaan mendapatkan data pustaka, dan memberikan pencarian daftar pustaka kepada mencari pustaka 
