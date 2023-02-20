@@ -1,6 +1,8 @@
 # studi-kasus-data-flow-diagram
 # dfd level 0
 ![level0](img/Ripa.jpg)
+Terdapat 2 Entitas luar/aktor yang terlibat, yaitu : [Anggota/Pengunjung perpustakaan]
+Anggota/Pengunjung Perpustakaan adalah Seorang Anggota atau pengunjung yang ingin meminjam ke perpustakaan.
 [Anggota/Pengunjung perpustakaan]<br>
 pengunjung yang ingin meminjam ke perpustakaan<br>
 (mengelola sistem informasi manajemen perpustakaan)<br>
@@ -30,6 +32,15 @@ aliran data >><br>
 
 # dfd level 2 no 1
 ![level2no1](img/ke-1-lvl-2.jpg)
+<br>Proses Mengelola Pustaka:<br>
+> sistem yang mengelola proses memasukan pustaka, mengubah pustaka, menghapus pustaka, dan melihat pustaka<br>
+-pustaka tanpa pengarang- proses memberikan data data pustaka tanpa pengarang yang ingin dimasukkan ke proses<br> mengelola pustaka<br>
+-pengarang pustaka- tahap memberikan data data pengarang pustaka yang ingin dimasukkan ke proses mengelola pustaka<br>
+-status login- tahap mengambil dan mengecek data status login dari proses sebelumnya<br>
+-pustaka tanpa pengarang- tahap memberikan data data pustaka tanpa pengarang yang ingin dimasukkan ke proses selanjutnya<br>
+-pustaka- tahap mengirim data pustaka yang ingin dimasukkan ke proses selanjutnya<br>
+-pustaka- tahap mengirim data pustaka yang ingin dimasukkan ke proses mengelola pustaka<br>
+-pengarang pustaka- tahap menunjukan data data pengarang pustaka yang diambil dari proses mengelola pustaka<br>
 
 # dfd level 2 no 2
 ![level2no2](img/ke-2.jpeg)
