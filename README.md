@@ -3,65 +3,27 @@
 Diagram Rafi Jara Mutiar
 # DFD level 0
 ![level0](img/LEVEL0.jpg)
-1. Mengelola sistem informasi manajemen perpustakaan mengalirkan data anggota/pengunjung perpustakaan (ketika ada yg meminjam buku)
-2. lalu anggota melakukan pencarian pustaka kepada mengelola sistem
-3. terus petugas pustaka itu melakukan login ke mengelola sisitem pustaka
-4. setalah itu anggota  mendapatkan pesan login/logut dari pustaka
-5. Petugas pustaka melakukan pencarian pustaka kepada mengelola sistem
-6. Mengelola sistem mengirim data kembali kepada petugas 
-7. Petugas juga langsung mengirim kembali kepada mengelola sistem untuk di periksa
-8. Mengelola sistem mencari anggota yg meminjam buku
-9. Mengelola sistem itu mengirimkan data anggota kepada si petugas untuk di periksa,setelah di periksa
-10. petugas juga langsung mengirimkan data anggota lagi untuk di menerima data tersebut     (setelah di terima data)
-11. Lalu melakukan peminjaman kepada mengelola sistem
-12. Petugas melakukan pencarian peminjam kepada mengelola sistem
-13. Petugas melakukan peminjaman
-14. Mengelola sistem mengirimkan data peminjama kpd petugas 
-15. prtugas mengirimkan data kepada mengelola sistem
-16. Mengelola sistem mengirimkan data HASIL PENCARIAN kepada petugas
-17. Dan petugas memberikan data kepada anggota
+# DFD LEVEL 0
+- anggota/ pengunjung perpustakaan melakukan pencarian Pustaka ke sistem informasi manajemen perpustakaan. 
+- anggota login dahulu untuk melakukan pencarian Pustaka
+- anggota mebuat pesan login 
+- anggota mencari buku apa yang dia ingin kan 
+- sistem mengkonfirmasi kepada petugas perpustakaan untuk menunjukkan letak di mana buku itu 
+- petugas menginput buku yang di pinjem anggota 
+- petugas mencari/ mencatat nama anggota untuk peminjaman buku
 # DFD level 1
 ![level1](img/LEVEL1.jpg)
--anggota/pengunjung perpustakaan melakukan pencarian terhadap daftar pustaka
--sistem mencari pustaka menerima data tersebut dan memberikan daftar pustaka kepada pengunjung/anggota
--mencari pustaka menerima data pengunjung/anggota yang mencari pustaka, kemudian mengirimkan data pustaka kepada petugas 
--petugas perpustakaan mendapatkan data pustaka, dan memberikan pencarian daftar pustaka kepada mencari pustaka 
--mengelola pustaka memberikan pustaka tanpa pengarang kepada pustaka
-- pustaka memberikan data pustaka tanpa pengarang kepada mencari pustaka 
-- sistem informasi harus memeriksa terlebih dahulu memeriksa situs login dari mengelola pustaka, untuk dapat mengubah data dari mengelola pustaka
-- jika sudah login, pustaka dapat memberikan beberapa data pustaka tanpa pengarang kepada mengelola pustaka
-- mengelola pustaka memberi data tersebut kepada pengarang
-- pengarang memberika data pengarang pustaka kepada mengelola pustaka
-- mengelola pustaka memberikan data pustaka kepada petugas
-- petugas menerima data pustaka tersebut dan memproses kepada mencari pustaka lewat pencarian pustaka 
-- pengarang memasukkan pengarang pustaka kepada mencari pustaka
-- mencari pustaka memproses data keduanya untuk di berikan kepada anggota/pengunjung
-- petugas perpustakaan memberikan data pencarian peminjaman kepada mengelola peminjaman 
-- petugas perpustakaan memberikan data peminjaman yang di pinjam oleh anggota/pengunjung 
-- sistem informasi harus terlebih dahulu memeriksa status login untuk dapat menjangkau mengelola peminjaman untuk di lakukan peminjaman 
-- jika sudah status login, mengelola peminjaman menerima dan memberikan data kepada sistem peminjaman
-- sistem peminjaman menerima data dan memberikan kembali kepada mengelola peminjaman, tanda peminjaman di perbolehkan
-- kemudian memberikan data peminjaman kepada petugas untuk di berikan kepada mencari pustaka kemudian anggota/pengunjung
-- petugas melakukan pencarian terhadap data anggota
-- petugas kemudian memberikan data anggota yang di cari
-- sistem informasi mengecek status login terlebih dahulu untuk dapat menjangkau sistem mengelola petugas
-- jika sudah berstatus login, maka sistem mengelola anggota akan memberikan data anggota tanpa telepon kepada anggota
-- anggota menerima data dan memberikan data anggota tanpa telepon kepada sistem mengelola anggota
-- mengelola anggota memberikan data telpon anggota kepada telpon
-- telpon menerima data dan memberikan data telpon anggota ke mengelola anggota 
-- mengelola anggota menerima data telpon anggota dan memberikan data kepada petugas
--petugas melalukan pencarian data petugas lainnya kepada mengelola tugas
--petugas memberika data anggota yang di cari
-- sistem memeriksa status login dari petugas perpustakaan 
-- jika sudah berstatus login, mengelola petugas akan mencari data petugas kepada petugas
-- petugas memberikan data petugas yang di cari
-- kemudian mengelola petugas menerima data dan memberikannya kepada petugas perpustakaan 
-- petugas perpustakaan melakukan login 
-- sistem login menerima data login petugas perpustakaan
-- sistem petugas menerima login petugas perpustakaan
-- sistem login kemudian memberikan pesan login/logout kepada petugas perpustakaan
-- jika login terdapat, berarti petugas bisa menjalankan tugasnya
-- jika logout maka petugas harus login kembali
+# DFD LEVEL 1
+-setelah mencari Pustaka lalu ada beberapa bagian 
+- mengelola Pustaka
+- mengelola pinjaman
+- mengelola anggota
+- mengelola petugas
+- login
+- logout
+
+- Jadi di setiap masing masing nama tersebut ada penjelasan itu tersendiri, nah penjelasan itu akan di jelaskan pada masing masing daftar nama tersebut
+
 # DFD level 2 no 1
 ![level2no1](img/level2no1.jpg)
 MENGELOLA PUSTAKA
