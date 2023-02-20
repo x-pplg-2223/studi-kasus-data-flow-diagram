@@ -30,6 +30,17 @@ aliran data >>
 ![level1](img/Level1.jpg)
 # dfd level 2 no1
 ![Kamusdata](img/Level2no1.png)
+<br>
+Proses Mengelola Pustaka : sistem yang mengelola proses memasukan pustaka, mengubah pustaka, menghapus pustaka, dan melihat pustaka.<br>
+-pustaka tanpa pengarang : tahap memberikan data data pustaka tanpa pengarang yang ingin dimasukkan ke proses mengelola pustaka.<br>
+-pengarang pustaka : tahap memberikan data data pengarang pustaka yang ingin dimasukkan ke proses mengelola pustaka.
+-status login : tahap mengambil dan mengecek data status login dari proses sebelumnya.<br>
+-pustaka tanpa pengarang : tahap memberikan data data pustaka tanpa pengarang yang ingin dimasukkan ke proses selanjutnya.<br>
+-pustaka : tahap mengirim data pustaka yang ingin dimasukkan ke proses selanjutnya.<br>
+-pustaka : tahap mengirim data pustaka yang ingin dimasukkan ke proses mengelola pustaka.<br>
+-pengarang pustaka : tahap menunjukan data data pengarang pustaka yang diambil dari proses mengelola pustaka.<br>
+-Pada tahap ini ada previlege petugas yang dapat mengubah proses mengelola pustaka,seperti proses memasukkan pustaka, mengubah pustaka, menghapus pustaka, dengan melalui pengecekan status login agar dapat melakukan hal tersebut,selanjutnya data terakhir tersebut bisa dikembalikan ke sistem lainnya.<br>
+-dan ada juga previlege yang dimiliki anggota yaitu proses melihat pustaka dengan melalui fase status login, pustaka tanpa pengarang, dan pengarang pustaka pada proses melihat pustaka.<br>
 # dfd level 2 no2
 ![level2](img/level2no2.png)
 <br>
