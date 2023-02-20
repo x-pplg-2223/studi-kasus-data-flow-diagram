@@ -2,7 +2,7 @@
 
 # Fajril Yusin Supriadi
 
-# Level0
+# Level 0
 [![level0](img/level0.png)
 
 <i>Terdapat 2 Aktor yang terlibat yaitu;
@@ -11,7 +11,7 @@
  [Petugas Perpustakaan]<br>
  Petugas Perpustakaan adalah seorang petugas yang memenuhi permintaan/pinjaman dari pengunjung yang sudah di proses dan sudah mendapat izin dari sistem yang mengelola informasi manajemen perpustakaan.<br> 
  (Mengelola sistem informasi manajemen perpustakaan)<br> 
- Sistem yang mengelola permintaan anggota dan memenuhi permintaan anggota yang di dapatkan dari petugas.<br> 
+ Sistem yang mengelola permintaan anggota dan memenuhi permintaan anggota yang di dapatkan dari petugas.<br> 
  Penjelasan komponen-komponen DFD level 0: 
  •Petugas perpustakaan melakukan login;<br> 
  •Dan sistem informasi akan memberikan notif/pesan kepada petugas perpustakaan;<br> 
@@ -29,10 +29,10 @@
  •Petugas memberikan akses untuk memberikan buku yang akan dipinjam;<br> 
  •Sistem informasi memberikan konfirmasi pada petugas perpustakaan;<br> 
  •Sistem memberikan data pustaka pada anggota/pengunjung perpustakaan;<br></i>
-# level1
+# level 1
 [![level1](img/level1.png)
 
-•Anggota mencari pustaka ke sistem dan petugas perpustakaan mencari pustaka di sistem dan mengirimnya ke petugas perpustakaan
+<i>•Anggota mencari pustaka ke sistem dan petugas perpustakaan mencari pustaka di sistem dan mengirimnya ke petugas perpustakaan
 
 <br> •Lalu Petugas perpustakaan login dan sistem memberikan pesan login<br>
 
@@ -44,12 +44,12 @@
 
 <br> •Petugas perpustakaan mencari data anggpta di sistem dan sistem mencari data anggota tanpa telepon di storage anggota dan mencari data telepon anggota di storage telepon 
 
-<br> •Terakhir Petugas perpustakaan mencari data petugas di sistem dan sistem mencari data di storage petugas
+<br> •Terakhir Petugas perpustakaan mencari data petugas di sistem dan sistem mencari data di storage petugas<i/>
 
-# level2
+# level 2
 [![Level2.](img/Level2.png)
 
-•Sistem yang mengelola proses memasukan pustaka, mengubah pustaka, menghapus pustaka, dan melihat pustaka<br> 
+<i>•Sistem yang mengelola proses memasukan pustaka, mengubah pustaka, menghapus pustaka, dan melihat pustaka<br> 
 
  •Pustaka tanpa pengarang- Proses memberikan data data pustaka tanpa pengarang yang ingin dimasukkan ke proses<br> mengelola pustaka<br> 
 
@@ -63,12 +63,12 @@
 
  •Pustaka- Proses mengirim data pustaka yang ingin dimasukkan ke proses mengelola pustaka<br> 
 
- •Pengarang pustaka- Proses menunjukan data data pengarang pustaka yang diambil dari proses mengelola pustaka<br>
+ •Pengarang pustaka- Proses menunjukan data data pengarang pustaka yang diambil dari proses mengelola pustaka<br></i>
 
-# Level2 Mengelola Pustaka
+# Level 2 Mengelola Pustaka
 [![pustaka](img/pustaka.png)
 
-•Status login- Proses mengambil dan mengecek data status login dari proses sebelumnya<br> 
+<i>•Status login- Proses mengambil dan mengecek data status login dari proses sebelumnya<br> 
 
  -Pustaka- Proses mengambil data pustaka yang ingin dimasukkan<br> 
 
@@ -104,12 +104,12 @@
 
  •Pustaka tanpa pengarang- Proses mengambil data pustaka tanpa pengarang yang ingom di lihat<br> 
 
- •Pengarang pustaka- Proses mengambil data pengarang pustaka yang ingin di lihat<br>
+ •Pengarang pustaka- Proses mengambil data pengarang pustaka yang ingin di lihat<br></i>
 
 # Level 2 Mengelola Anggota
 [![level2-anggota](img/level2-anggota.png)
 
-•Status login- Proses mengambil dan mengecek data status login dari data sebelumnya<br> 
+<i>•Status login- Proses mengambil dan mengecek data status login dari data sebelumnya<br> 
 
  •Anggota- Proses mengambil data anggota yang ingin dimasukkan<br> 
 
@@ -157,12 +157,12 @@
 
  •Anggota tanpa telepon- Proses mengambil data anggota tanpa telepon yangg dicari<br> 
 
- •Telepon anggota- Proses mengambil data telepon anggota yang dicari<br>
+ •Telepon anggota- Proses mengambil data telepon anggota yang dicari<br></i>
 
-# Level2 Mengelola Peminjaman
+# Level 2 Mengelola Peminjaman
 [![level2-mengelolapeminjaman](img/level2-mengelolapeminjaman.png)
 
-•Status login- Proses mengambil dan mengecek data status login dari data sebelumnya<br> 
+<i>•Status login- Proses mengambil dan mengecek data status login dari data sebelumnya<br> 
 
  •Peminjaman- Proses mengambil dan mengirim data peminjaman yang ingin dimasukkan<br> 
 
@@ -190,12 +190,12 @@
 
  •Pencarian peminjaman- Proses mengambil data peminjaman yang di cari<br> 
 
- •Peminjaman- Proses mengambil dan mengirim data peminjaman yang di cari<br>
+ •Peminjaman- Proses mengambil dan mengirim data peminjaman yang di cari<br></i>
 
-# Level2 Mengelola Petugas
+# Level 2 Mengelola Petugas
 [![level2-mengelolapetugas-1](img/level2-mengelolapetugas(1).png)
 
-•Status login- Proses mengambil dan mengecek data status login dari data sebelumnya<br> 
+<i>•Status login- Proses mengambil dan mengecek data status login dari data sebelumnya<br> 
 
  •Petugas- Proses mengambil dan mengirim data petugas yang ingin dimasukkan<br> 
 
@@ -223,7 +223,7 @@
 
  •Mencari petugas- Proses mengambil data petugas yang dicari<br> 
 
- •Petugas- Proses mengambil dan mengirim data petugas yang dicari<br>
+ •Petugas- Proses mengambil dan mengirim data petugas yang dicari<br></i>
 
 # Kamus Data
 [![Kamus-Data-Jril](img/KamusDataJril.png)
