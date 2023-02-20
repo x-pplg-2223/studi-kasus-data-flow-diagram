@@ -35,12 +35,12 @@ aliran data >><br>
 <br>Proses Mengelola Pustaka:<br>
 > sistem yang mengelola proses memasukan pustaka, mengubah pustaka, menghapus pustaka, dan melihat pustaka<br>
 -pustaka tanpa pengarang- proses memberikan data data pustaka tanpa pengarang yang ingin dimasukkan ke proses<br> mengelola pustaka<br>
--pengarang pustaka- tahap memberikan data data pengarang pustaka yang ingin dimasukkan ke proses mengelola pustaka<br>
--status login- tahap mengambil dan mengecek data status login dari proses sebelumnya<br>
--pustaka tanpa pengarang- tahap memberikan data data pustaka tanpa pengarang yang ingin dimasukkan ke proses selanjutnya<br>
--pustaka- tahap mengirim data pustaka yang ingin dimasukkan ke proses selanjutnya<br>
--pustaka- tahap mengirim data pustaka yang ingin dimasukkan ke proses mengelola pustaka<br>
--pengarang pustaka- tahap menunjukan data data pengarang pustaka yang diambil dari proses mengelola pustaka<br>
+-pengarang pustaka- proses memberikan data data pengarang pustaka yang ingin dimasukkan ke proses mengelola pustaka<br>
+-status login- proses mengambil dan mengecek data status login dari proses sebelumnya<br>
+-pustaka tanpa pengarang- proses memberikan data data pustaka tanpa pengarang yang ingin dimasukkan ke proses selanjutnya<br>
+-pustaka- proses mengirim data pustaka yang ingin dimasukkan ke proses selanjutnya<br>
+-pustaka- proses mengirim data pustaka yang ingin dimasukkan ke proses mengelola pustaka<br>
+-pengarang pustaka- proses menunjukan data data pengarang pustaka yang diambil dari proses mengelola pustaka<br>
 
 # dfd level 2 no 2
 ![level2no2](img/ke-2.jpeg)
