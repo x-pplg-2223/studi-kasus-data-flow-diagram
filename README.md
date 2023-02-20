@@ -33,7 +33,7 @@ aliran data >><br>
 # dfd level 2 no 1
 ![level2no1](img/ke-1-lvl-2.jpg)
 <br>Proses Mengelola Pustaka:<br>
-> sistem yang mengelola proses memasukan pustaka, mengubah pustaka, menghapus pustaka, dan melihat pustaka<br>
+sistem yang mengelola proses memasukan pustaka, mengubah pustaka, menghapus pustaka, dan melihat pustaka<br>
 -pustaka tanpa pengarang- proses memberikan data data pustaka tanpa pengarang yang ingin dimasukkan ke proses<br> mengelola pustaka<br>
 -pengarang pustaka- proses memberikan data data pengarang pustaka yang ingin dimasukkan ke proses mengelola pustaka<br>
 -status login- proses mengambil dan mengecek data status login dari proses sebelumnya<br>
