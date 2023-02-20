@@ -1,6 +1,7 @@
 # studi-kasus-data-flow-diagram
 # dfd level 0
 ![level0](img/Level0.jpg)
+<br>
 [Anggota/Pengunjung perpustakaan]
 pengunjung yang ingin meminjam ke perpustakaan
 (mengelola sistem informasi manajemen perpustakaan)
@@ -31,6 +32,7 @@ aliran data >>
 ![Kamusdata](img/Level2no1.png)
 # dfd level 2 no2
 ![level2](img/level2no2.png)
+<br>
 Proses Memasukkan pustaka:
 -status login- proses mengambil dan mengecek data status login dari proses sebelumnya<br>
 -pustaka- proses mengambil data pustaka yang ingin dimasukkan<br>
@@ -53,6 +55,7 @@ Proses Melihat pustaka:<br>
 -pengarang pustaka- proses mengambil data pengarang pustaka yang ingin di lihat<br>
 # dfd level 2 no3
 ![level2](img/level2no3.png)
+<br>
 Proses Memasukkan anggota:<br>
 -status login- proses mengambil dan mengecek data status login dari data sebelumnya<br>
 -anggota- proses mengambil data anggota yang ingin dimasukkan<br>
@@ -80,6 +83,7 @@ Proses Mencari anggota:<br>
 -telepon anggota- proses mengambil data telepon anggota yang dicari<br>
 # dfd level 2 no4
 ![level2](img/level2no4.jpg)
+<br>
 Proses Memasukkan peminjaman:<br>
 -status login- proses mengambil dan mengecek data status login dari data sebelumnya<br>
 -peminjaman- proses mengambil dan mengirim data peminjaman yang ingin dimasukkan<br>
@@ -98,6 +102,7 @@ Proses Mencari peminjaman:<br>
 -pemijaman- proses mengambil dan mengirim data peminjaman yang di cari<br>
 # dfd level 2 no5
 ![level2](img/level2no5.jpg)
+<br>
 Proses Memasukkan Petugas:<br>
 -status login- proses mengambil dan mengecek data status login dari data sebelumnya<br>
 -petugas- proses mengambil dan mengirim data petugas yang ingin dimasukkan<br>
