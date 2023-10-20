@@ -1,6 +1,6 @@
 # studi-kasus-data-flow-diagram
 # dfd level 0
-![level0](img/Ripa.jpg)
+![level0](img/Ripa.jpg) 
 Terdapat 2 Entitas luar/aktor yang terlibat, yaitu : [Anggota/Pengunjung perpustakaan]
 Anggota/Pengunjung Perpustakaan adalah Seorang Anggota atau pengunjung yang ingin meminjam ke perpustakaan.
 [Anggota/Pengunjung perpustakaan]<br>
